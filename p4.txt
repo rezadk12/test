@@ -1,0 +1,10000 @@
+92 put 660 2
+6 put 700 1
+73 put 132 2
+14 put 632 1
+65 put 462 3
+69 put 26 1
+94 put 143 3
+48 put 309 1
+46 put 39 1
+25 put 224 1
+48 put 764 1
+23 put 121 3
+88 put 988 2
+100 put 803 3
+100 put 655 2
+59 put 293 1
+81 put 109 2
+91 put 93 3
+94 put 481 1
+89 put 177 3
+3 put 132 2
+1 put 260 1
+31 put 638 1
+39 put 547 1
+41 put 440 2
+60 put 545 2
+38 put 511 1
+79 put 314 2
+5 put 298 2
+55 put 433 2
+92 put 988 3
+59 put 585 3
+63 put 524 3
+96 put 345 3
+88 put 590 2
+83 put 481 2
+11 put 737 1
+73 put 19 2
+83 put 936 3
+93 put 599 3
+87 put 605 3
+58 put 101 3
+54 put 778 3
+90 put 164 3
+68 put 321 2
+14 put 290 2
+94 put 977 2
+30 put 122 2
+88 put 883 2
+6 put 201 3
+21 put 109 2
+63 put 580 3
+17 put 849 2
+79 get 1
+88 get 3
+60 get 2
+63 get 2
+54 get 1
+2 get 3
+76 get 3
+24 get 3
+12 get 2
+41 get 1
+4 get 3
+90 get 2
+35 get 2
+24 get 3
+74 get 3
+99 get 2
+91 get 1
+96 get 2
+61 get 3
+27 get 2
+41 get 1
+45 get 1
+10 put 868 3
+34 put 944 2
+58 put 660 2
+97 put 853 3
+87 put 331 2
+88 put 990 2
+88 put 917 1
+91 put 963 1
+63 put 626 3
+84 put 911 3
+32 put 379 1
+30 put 869 2
+49 put 895 1
+90 put 192 2
+35 put 965 1
+33 put 140 1
+29 put 39 3
+90 put 539 2
+4 put 608 3
+98 put 481 1
+49 put 621 2
+24 put 365 2
+37 put 894 3
+92 put 680 2
+10 put 496 3
+18 put 937 3
+26 put 422 3
+40 put 503 3
+1 put 945 3
+7 put 735 3
+16 put 237 2
+27 put 715 2
+37 put 555 1
+61 put 337 2
+6 put 913 2
+50 put 640 1
+29 put 364 1
+78 put 851 3
+16 put 861 1
+32 put 491 1
+38 put 136 2
+53 put 574 3
+97 put 424 2
+36 put 910 2
+47 put 37 2
+60 put 329 3
+100 put 56 1
+91 put 711 3
+37 put 545 2
+26 put 331 3
+91 put 940 2
+6 put 453 1
+23 put 345 2
+4 put 369 1
+98 put 951 2
+39 put 360 2
+93 put 964 3
+8 get 3
+68 get 2
+71 get 3
+24 get 3
+78 get 2
+53 get 2
+2 get 3
+6 get 1
+100 get 1
+95 get 3
+27 get 3
+43 get 1
+61 get 3
+89 get 2
+46 get 3
+5 get 2
+89 get 3
+35 get 1
+45 get 1
+26 get 3
+43 get 2
+81 get 1
+48 get 1
+82 get 2
+53 get 3
+40 get 1
+95 get 1
+75 get 1
+54 get 2
+46 get 2
+7 get 1
+21 get 3
+52 get 1
+86 get 3
+58 get 2
+97 get 1
+71 get 2
+46 get 1
+32 get 1
+100 get 3
+52 get 1
+50 get 1
+63 get 2
+2 get 3
+49 get 2
+11 get 2
+3 get 1
+57 get 3
+57 get 1
+76 get 2
+35 put 708 1
+36 put 674 2
+24 put 888 3
+43 put 612 3
+8 put 455 2
+2 put 899 2
+17 put 44 1
+29 put 827 1
+70 put 971 1
+37 put 945 3
+82 put 697 1
+54 put 123 2
+80 put 401 2
+24 put 616 1
+57 put 653 2
+81 put 630 3
+40 put 481 1
+59 put 548 2
+85 put 807 2
+62 put 765 2
+76 put 129 1
+90 put 428 1
+86 put 121 1
+19 put 255 2
+49 put 463 2
+13 put 990 3
+17 put 384 3
+72 put 402 2
+50 put 651 3
+81 put 516 1
+11 put 757 2
+98 put 741 3
+49 put 380 3
+76 put 700 3
+81 put 547 2
+34 put 182 1
+97 put 124 2
+79 put 78 1
+52 put 997 3
+1 put 999 2
+83 put 769 2
+12 get 2
+5 get 2
+73 get 1
+35 get 1
+3 get 2
+3 get 1
+18 get 3
+26 get 2
+39 get 1
+59 get 1
+14 get 1
+69 get 1
+69 get 2
+63 get 1
+25 get 2
+63 get 3
+49 get 1
+87 get 3
+33 get 1
+97 get 3
+67 get 1
+52 get 1
+85 get 1
+57 get 3
+96 get 1
+95 get 2
+28 get 1
+73 get 1
+54 get 1
+91 get 2
+15 get 3
+20 get 1
+84 get 2
+32 get 1
+99 get 1
+78 get 3
+72 get 3
+8 get 2
+73 get 1
+64 get 3
+22 get 2
+15 get 2
+84 put 853 2
+75 put 720 3
+73 put 590 3
+33 put 164 3
+58 put 701 2
+84 put 249 2
+80 put 434 2
+35 put 858 3
+67 put 238 1
+81 put 387 2
+96 put 811 3
+9 put 988 3
+44 put 171 3
+83 put 983 3
+35 put 589 3
+46 put 929 3
+29 put 530 3
+49 put 236 3
+91 put 67 1
+82 put 491 3
+43 put 551 1
+69 put 60 1
+5 put 34 2
+35 put 136 2
+55 put 826 2
+19 put 51 2
+55 put 653 3
+98 put 708 2
+71 put 281 1
+93 put 204 1
+21 put 883 3
+65 put 456 2
+55 put 756 3
+6 put 266 1
+83 put 547 1
+96 put 897 1
+48 put 743 2
+42 put 832 1
+84 put 919 3
+43 put 798 3
+63 put 265 3
+63 put 294 2
+99 put 175 3
+39 put 593 1
+15 put 539 3
+46 put 8 3
+23 put 749 3
+29 put 751 1
+13 put 828 1
+97 put 612 1
+4 put 943 2
+80 put 487 3
+77 put 40 3
+90 get 3
+24 get 1
+3 get 1
+4 get 1
+38 get 3
+41 get 1
+55 get 2
+66 get 1
+64 get 2
+83 get 3
+30 get 2
+29 get 2
+51 get 3
+14 get 3
+10 get 2
+19 get 1
+66 get 1
+42 get 2
+47 get 3
+67 get 1
+35 get 3
+85 get 3
+48 get 3
+94 get 1
+77 get 3
+4 get 2
+41 get 3
+49 get 1
+54 put 204 3
+30 put 881 1
+31 put 869 2
+43 put 902 1
+11 put 758 1
+63 put 406 3
+36 put 903 1
+36 put 705 1
+99 put 409 3
+21 put 857 2
+71 put 774 1
+92 put 829 1
+5 put 408 2
+18 put 306 1
+83 put 220 1
+70 put 722 1
+84 put 801 2
+88 put 117 1
+52 put 215 2
+58 put 56 2
+86 put 930 2
+83 put 399 2
+36 put 827 1
+36 get 1
+89 get 1
+88 get 1
+63 get 3
+69 get 3
+9 get 1
+25 get 3
+78 get 2
+36 get 2
+85 get 3
+55 get 3
+24 get 2
+64 get 2
+67 get 3
+23 get 3
+26 get 1
+60 get 3
+8 get 1
+55 get 2
+88 get 2
+23 get 3
+85 get 2
+40 get 3
+42 get 3
+22 get 1
+90 get 3
+30 get 3
+19 get 1
+83 get 3
+4 get 1
+58 get 2
+60 get 1
+44 get 1
+61 get 2
+62 get 2
+11 get 2
+45 get 3
+31 get 3
+30 get 1
+67 put 787 3
+41 put 836 1
+85 put 902 3
+70 put 215 1
+78 put 505 3
+79 put 852 2
+49 put 45 3
+78 put 967 3
+40 put 166 3
+11 put 801 1
+78 put 541 3
+45 put 712 2
+35 put 686 1
+58 put 302 2
+27 put 817 2
+50 put 633 3
+25 put 978 3
+7 put 458 2
+63 put 269 1
+10 put 184 2
+56 put 348 1
+79 put 750 1
+24 put 944 2
+79 put 618 3
+27 put 758 3
+9 put 448 1
+78 put 888 2
+58 put 510 1
+59 put 115 2
+59 put 490 3
+33 put 290 1
+3 put 569 2
+68 put 192 3
+34 put 515 3
+3 get 3
+14 get 2
+55 get 1
+90 get 2
+92 get 2
+83 get 2
+20 get 2
+95 get 3
+10 get 1
+66 get 2
+83 get 2
+8 get 2
+37 get 3
+24 get 3
+98 get 1
+75 get 3
+56 get 3
+59 get 1
+96 get 1
+25 get 1
+48 get 2
+61 get 1
+13 get 1
+23 get 3
+72 get 2
+27 get 3
+90 get 2
+20 get 1
+95 get 2
+24 get 1
+63 get 1
+28 get 3
+60 get 1
+31 get 3
+43 get 1
+68 get 1
+8 get 2
+34 get 1
+17 get 1
+73 get 1
+31 get 3
+74 get 2
+30 get 2
+46 get 3
+89 get 2
+96 get 2
+83 get 3
+57 get 3
+58 get 2
+93 get 3
+85 get 1
+25 get 2
+47 get 1
+49 put 815 1
+64 put 627 3
+92 put 450 2
+11 put 733 2
+89 put 674 2
+71 put 387 1
+25 put 278 1
+69 put 636 2
+97 put 486 1
+3 put 391 1
+78 put 872 2
+61 put 507 2
+64 put 927 1
+20 put 293 3
+55 put 477 1
+38 put 330 1
+44 put 740 2
+85 put 698 3
+9 put 293 3
+48 put 418 3
+5 put 75 2
+4 put 374 3
+64 put 399 2
+61 put 908 1
+79 put 804 1
+72 put 709 1
+92 put 667 1
+24 put 403 2
+56 put 335 3
+69 put 975 2
+68 put 584 3
+97 get 2
+16 get 1
+67 get 2
+27 get 1
+45 get 2
+65 get 1
+8 get 1
+42 get 3
+15 get 3
+14 get 3
+39 get 3
+86 get 3
+11 get 2
+41 get 2
+20 get 3
+54 get 2
+42 get 1
+36 get 2
+73 get 1
+55 get 3
+8 get 1
+31 put 15 1
+63 put 39 2
+51 put 132 3
+45 put 905 2
+64 put 143 1
+66 put 911 3
+31 put 8 3
+56 put 543 2
+90 put 233 2
+28 put 432 3
+65 put 16 3
+34 put 363 2
+18 put 326 1
+65 put 80 3
+44 put 576 2
+61 put 710 1
+14 put 416 2
+60 put 406 3
+54 put 965 2
+60 put 786 2
+48 put 884 3
+11 put 534 3
+34 put 579 3
+75 put 215 1
+30 put 668 1
+25 put 955 3
+81 put 843 2
+44 put 743 3
+58 put 814 1
+1 put 783 1
+49 put 756 3
+82 put 504 2
+99 put 602 2
+71 put 865 3
+36 put 864 3
+87 put 390 1
+99 put 872 2
+52 put 699 1
+63 put 551 2
+29 put 769 1
+90 put 896 2
+75 put 854 1
+87 put 697 1
+65 put 899 2
+49 put 901 2
+55 put 491 1
+70 put 668 2
+70 put 686 3
+72 get 2
+98 get 1
+40 get 2
+35 get 3
+24 get 2
+83 get 3
+24 get 3
+58 get 1
+51 get 3
+33 get 3
+70 get 2
+27 get 1
+4 get 1
+27 get 1
+94 get 3
+66 get 3
+94 get 3
+49 get 3
+60 get 2
+49 get 1
+76 get 3
+100 get 3
+30 get 3
+18 get 1
+20 get 3
+96 get 1
+66 put 292 3
+22 put 137 3
+88 put 350 2
+46 put 755 3
+42 put 35 3
+7 put 637 1
+89 put 421 2
+84 put 74 3
+10 put 711 1
+100 put 467 1
+24 put 106 3
+13 put 821 2
+53 put 408 2
+34 put 817 2
+30 put 774 3
+27 put 591 2
+73 put 358 2
+8 put 655 1
+42 put 243 3
+46 put 83 1
+54 put 722 3
+22 put 971 1
+30 put 234 2
+100 put 664 2
+88 put 211 2
+84 put 71 3
+78 put 754 1
+6 put 677 2
+56 put 644 3
+74 put 440 3
+21 put 371 3
+66 put 389 1
+35 get 1
+27 get 2
+2 get 2
+93 get 2
+59 get 1
+67 get 2
+2 get 3
+30 get 3
+23 get 2
+16 get 3
+19 get 1
+81 get 3
+6 get 3
+41 get 2
+88 get 3
+99 get 3
+71 get 2
+25 get 1
+2 get 2
+44 get 1
+4 get 3
+49 get 2
+100 get 3
+13 get 2
+67 get 3
+94 get 2
+19 put 794 3
+59 put 961 3
+94 put 189 3
+98 put 470 3
+12 put 335 2
+21 put 412 2
+46 put 405 2
+44 put 940 1
+64 put 765 2
+100 put 224 2
+5 put 233 3
+64 put 608 1
+25 put 196 1
+8 put 254 3
+89 put 445 3
+23 put 354 3
+83 put 389 2
+68 put 562 2
+97 put 64 2
+43 put 494 3
+25 put 57 2
+94 put 738 1
+1 get 2
+14 get 1
+24 get 3
+84 get 2
+74 get 2
+53 get 2
+15 get 1
+52 get 1
+71 get 1
+3 get 1
+39 get 3
+40 get 3
+40 get 3
+16 get 3
+35 get 2
+55 get 2
+80 get 3
+49 get 1
+50 get 3
+36 get 1
+44 get 3
+88 get 1
+35 get 2
+72 get 2
+33 get 2
+46 get 1
+48 get 1
+18 get 3
+39 get 2
+90 get 3
+60 get 1
+93 get 3
+34 get 3
+6 get 3
+8 get 2
+35 get 2
+15 get 3
+100 get 2
+98 get 2
+39 get 2
+100 get 3
+91 get 1
+66 get 3
+33 get 2
+48 get 2
+96 get 2
+77 get 2
+61 get 2
+83 get 3
+33 get 2
+39 get 3
+46 get 2
+90 get 2
+70 get 2
+12 get 2
+50 put 263 2
+95 put 109 1
+37 put 546 3
+61 put 98 2
+27 put 155 1
+85 put 768 3
+49 put 63 1
+41 put 68 2
+54 put 552 2
+82 put 866 2
+32 put 836 3
+62 put 729 1
+88 put 103 2
+94 put 946 2
+21 put 155 2
+51 put 845 1
+8 put 77 3
+1 put 117 1
+69 put 311 1
+35 put 563 3
+32 put 383 2
+40 put 825 3
+43 put 4 3
+53 put 51 2
+25 put 892 1
+100 put 598 3
+73 put 677 3
+65 put 551 3
+96 put 93 1
+94 put 999 1
+28 put 290 3
+44 put 277 3
+49 put 443 1
+86 put 7 3
+31 put 194 3
+6 get 1
+86 get 2
+84 get 3
+47 get 3
+50 get 3
+10 get 2
+41 get 1
+72 get 3
+71 get 2
+37 get 3
+29 get 1
+12 get 2
+73 get 2
+35 get 2
+4 get 2
+52 get 3
+8 get 1
+45 get 3
+32 get 2
+85 get 3
+63 get 1
+76 get 2
+92 get 3
+4 get 2
+33 get 3
+99 get 2
+2 get 2
+47 get 3
+78 get 2
+43 get 2
+62 get 3
+41 get 2
+21 get 2
+25 put 11 3
+83 put 778 3
+89 put 571 2
+23 put 305 2
+38 put 236 2
+90 put 134 1
+38 put 825 1
+80 put 174 2
+61 put 200 1
+60 put 405 3
+51 put 79 1
+7 put 280 1
+54 put 189 1
+70 put 451 1
+12 put 882 1
+76 put 39 1
+72 put 408 3
+87 put 863 2
+6 put 626 3
+67 put 422 3
+90 put 523 3
+82 put 258 2
+70 put 949 2
+64 put 250 2
+95 put 233 3
+39 put 116 1
+16 put 202 2
+50 put 452 2
+63 put 74 2
+99 put 521 3
+2 put 248 1
+81 put 186 3
+56 put 743 3
+54 put 235 3
+82 put 411 1
+35 put 803 1
+5 put 762 1
+3 put 752 1
+26 put 578 3
+31 put 343 1
+41 put 236 3
+90 put 331 1
+100 put 16 3
+56 put 525 2
+72 put 956 3
+42 put 953 1
+3 put 54 2
+78 put 319 3
+75 put 664 3
+58 put 817 2
+49 put 889 2
+24 put 264 2
+18 put 50 3
+50 put 270 3
+78 get 1
+46 get 2
+59 get 1
+95 get 3
+70 get 3
+46 get 1
+2 get 2
+97 get 1
+11 get 2
+64 get 3
+61 get 3
+18 get 3
+17 get 1
+58 get 2
+89 get 1
+24 get 3
+21 get 2
+96 get 1
+48 get 3
+50 get 1
+85 get 3
+15 get 2
+92 get 3
+37 get 1
+49 get 1
+18 get 2
+47 get 2
+3 get 2
+80 get 3
+65 put 883 1
+93 put 414 3
+84 put 360 1
+36 put 278 3
+88 put 723 3
+72 put 113 2
+12 put 477 3
+47 put 5 3
+91 put 676 2
+80 put 397 3
+72 put 703 1
+22 put 148 2
+33 put 891 3
+87 put 153 1
+20 put 157 1
+96 put 237 2
+37 put 382 1
+15 put 52 2
+61 put 174 1
+8 put 992 1
+17 put 783 3
+77 put 159 2
+4 put 670 2
+100 put 793 2
+92 put 122 1
+79 put 959 2
+26 put 856 3
+11 put 370 3
+12 put 446 1
+9 put 484 2
+35 put 747 3
+32 put 830 3
+74 put 216 2
+95 put 146 2
+80 put 536 2
+21 put 619 3
+5 put 866 1
+26 put 537 2
+33 put 975 1
+31 put 169 2
+46 get 3
+25 get 2
+48 get 2
+59 get 1
+19 get 3
+65 get 2
+19 get 2
+68 get 3
+67 get 3
+62 get 2
+66 get 3
+64 get 2
+88 get 2
+31 get 1
+77 get 3
+82 get 2
+15 get 2
+77 get 1
+8 get 2
+77 get 3
+82 get 2
+54 get 3
+19 get 1
+33 get 2
+51 get 1
+54 get 3
+96 get 2
+5 get 2
+4 get 2
+10 get 2
+83 get 1
+32 get 1
+34 get 1
+41 get 3
+33 get 3
+24 get 2
+96 get 2
+83 get 1
+78 get 2
+62 get 3
+30 get 2
+4 get 1
+62 get 2
+44 put 985 2
+35 put 536 3
+66 put 331 2
+48 put 844 3
+37 put 933 2
+41 put 57 3
+51 put 726 3
+33 put 886 2
+18 put 699 1
+6 put 260 3
+100 put 395 2
+37 put 423 3
+48 put 542 3
+40 put 623 1
+59 put 687 1
+55 put 594 3
+38 put 231 2
+57 put 516 2
+34 put 670 1
+80 put 929 1
+54 put 261 2
+89 put 398 1
+20 put 259 1
+18 put 767 2
+80 put 493 1
+61 put 388 2
+74 put 596 1
+62 put 252 3
+14 put 785 1
+89 put 979 1
+95 put 325 2
+93 put 154 3
+75 put 268 2
+2 put 416 2
+86 put 544 1
+80 put 716 1
+61 put 736 3
+19 put 347 3
+95 put 623 2
+84 put 757 1
+67 put 796 3
+86 get 1
+81 get 3
+99 get 1
+30 get 3
+85 get 3
+50 get 2
+5 get 3
+30 get 2
+35 get 2
+7 get 2
+28 get 1
+43 get 2
+14 get 3
+41 get 1
+96 get 1
+96 get 1
+1 get 3
+18 get 1
+75 get 1
+92 get 2
+15 get 1
+19 get 3
+60 get 1
+61 get 1
+80 get 1
+33 get 2
+58 get 1
+6 get 2
+40 get 2
+64 get 3
+32 get 2
+8 get 2
+24 get 3
+61 get 3
+27 get 2
+5 get 1
+20 get 2
+29 get 3
+71 get 3
+44 get 1
+72 get 3
+11 get 2
+14 get 3
+45 get 2
+68 get 2
+79 get 1
+50 get 3
+89 get 1
+35 get 1
+91 get 1
+50 get 1
+3 get 1
+51 put 649 1
+53 put 104 2
+17 put 821 3
+4 put 70 1
+67 put 102 1
+30 put 686 3
+42 put 637 2
+59 put 644 3
+92 put 363 2
+91 put 763 2
+51 put 484 1
+31 put 375 2
+39 put 131 1
+79 put 306 3
+79 put 438 1
+39 put 58 3
+24 put 360 1
+89 put 872 2
+98 put 782 1
+17 put 903 3
+41 put 641 1
+97 put 203 3
+83 put 940 1
+33 put 895 1
+23 put 771 1
+64 put 362 3
+31 put 257 1
+54 put 50 2
+97 put 223 3
+81 put 370 2
+28 put 738 1
+74 put 515 1
+22 put 196 1
+21 put 946 3
+25 get 2
+99 get 3
+76 get 2
+6 get 2
+82 get 3
+92 get 2
+21 get 2
+21 get 1
+11 get 2
+72 get 2
+52 get 1
+76 get 1
+74 get 1
+34 get 1
+91 get 3
+58 get 2
+1 get 2
+26 get 2
+91 get 3
+71 get 2
+20 get 2
+21 get 2
+65 get 1
+10 get 2
+22 get 2
+22 get 1
+64 get 3
+35 get 1
+56 get 3
+1 get 3
+100 get 1
+69 get 2
+8 get 3
+32 get 2
+96 get 3
+23 get 2
+37 get 3
+31 get 3
+83 get 2
+27 get 1
+26 get 3
+50 get 2
+30 get 3
+64 get 2
+30 get 3
+5 get 1
+46 get 2
+48 get 3
+44 put 882 1
+61 put 931 3
+58 put 904 2
+67 put 243 2
+3 put 667 2
+19 put 394 2
+26 put 304 1
+91 put 557 1
+20 put 856 3
+13 put 780 2
+33 put 438 3
+93 put 129 2
+36 put 359 3
+34 put 602 2
+10 put 208 3
+91 put 159 2
+93 put 112 1
+10 put 426 3
+34 put 202 2
+2 put 754 2
+20 put 49 2
+60 put 819 3
+18 put 305 3
+28 put 549 3
+5 put 937 2
+94 put 428 2
+56 put 568 2
+12 put 474 2
+81 put 572 3
+76 put 825 1
+71 put 165 2
+12 put 751 3
+95 put 829 1
+6 put 852 2
+59 put 877 1
+16 put 518 2
+89 put 714 1
+98 put 628 1
+94 put 481 1
+50 put 449 2
+30 put 88 2
+34 put 29 2
+97 put 301 3
+75 put 255 3
+54 put 223 2
+19 put 236 3
+68 get 2
+74 get 2
+92 get 2
+3 get 3
+18 get 1
+22 get 2
+62 get 1
+92 get 3
+76 get 2
+81 get 2
+54 get 1
+95 get 1
+45 get 2
+29 get 3
+89 get 1
+78 get 1
+64 get 1
+59 get 2
+7 get 1
+37 get 3
+9 get 2
+62 get 3
+29 get 3
+9 get 2
+72 get 3
+87 get 2
+79 get 1
+39 put 326 3
+69 put 663 3
+88 put 860 1
+34 put 155 1
+7 put 29 1
+19 put 589 3
+60 put 182 1
+41 put 98 3
+67 put 390 1
+77 put 976 2
+1 put 897 2
+17 put 375 2
+33 put 480 1
+13 put 697 3
+67 put 188 3
+94 put 719 1
+31 put 813 3
+4 put 303 1
+87 put 529 1
+45 put 456 2
+37 put 823 3
+29 put 980 2
+25 put 702 2
+60 put 286 1
+80 put 667 1
+58 put 851 2
+13 put 29 2
+81 put 145 1
+96 put 133 2
+90 get 3
+72 get 2
+96 get 2
+73 get 1
+65 get 3
+16 get 1
+78 get 3
+11 get 3
+64 get 1
+54 get 1
+88 get 1
+21 get 1
+93 get 1
+77 get 1
+94 get 3
+38 get 1
+90 get 1
+95 get 1
+67 get 1
+55 get 1
+59 get 1
+76 get 3
+87 get 2
+78 get 1
+72 get 3
+43 get 2
+1 put 240 1
+73 put 883 1
+57 put 472 3
+61 put 750 3
+48 put 571 2
+48 put 885 1
+41 put 591 3
+63 put 42 1
+19 put 75 1
+91 put 769 3
+53 put 912 3
+85 put 650 2
+33 put 536 1
+76 put 94 1
+23 put 430 1
+80 put 445 2
+23 put 167 1
+76 put 596 2
+46 put 118 2
+6 put 509 2
+32 put 220 2
+69 put 914 3
+75 put 864 3
+54 put 929 1
+22 put 454 3
+46 put 779 1
+26 put 600 3
+71 put 497 3
+86 put 20 1
+57 put 898 1
+56 put 182 3
+24 put 488 1
+73 put 885 1
+28 put 335 2
+92 put 436 2
+10 put 906 2
+29 put 445 1
+31 put 964 3
+2 put 199 2
+77 put 812 3
+62 put 283 2
+94 put 817 1
+11 put 77 3
+16 put 497 3
+65 put 464 3
+71 put 976 1
+68 put 693 1
+41 put 239 2
+32 put 217 3
+24 put 246 3
+55 put 940 1
+43 put 509 2
+29 get 3
+87 get 1
+41 get 1
+41 get 3
+15 get 1
+36 get 2
+28 get 1
+4 get 1
+35 get 1
+27 get 2
+58 get 3
+23 get 2
+82 get 1
+21 get 2
+98 get 2
+85 get 3
+24 get 3
+36 get 2
+50 get 1
+41 get 3
+66 get 2
+91 get 3
+56 get 3
+95 get 1
+86 get 2
+29 get 1
+81 get 2
+38 get 3
+38 get 3
+32 get 3
+82 get 2
+13 get 1
+68 get 1
+14 get 3
+21 get 3
+37 get 2
+44 get 2
+39 get 1
+10 get 1
+92 get 1
+50 get 1
+92 get 2
+65 get 1
+19 get 2
+70 get 2
+45 get 1
+61 get 3
+18 get 3
+79 get 3
+35 get 3
+6 get 2
+37 get 1
+56 get 3
+48 get 2
+19 get 2
+88 get 2
+2 get 1
+18 get 3
+18 put 745 1
+3 put 230 2
+55 put 986 3
+80 put 236 1
+73 put 139 3
+21 put 822 2
+95 put 834 1
+87 put 426 3
+76 put 498 1
+39 put 66 2
+94 put 880 3
+59 put 964 3
+17 put 839 1
+66 put 45 2
+26 put 575 2
+81 put 731 2
+86 put 891 3
+60 put 183 3
+5 put 165 3
+76 put 738 2
+34 put 44 1
+44 put 529 1
+3 put 667 3
+6 put 208 1
+37 put 743 1
+80 put 481 1
+40 put 24 3
+53 put 520 1
+97 put 145 3
+23 put 545 3
+96 put 652 2
+55 put 808 2
+64 put 531 1
+44 put 151 1
+6 put 184 3
+39 put 533 2
+74 put 267 2
+15 put 856 1
+1 put 147 3
+32 put 226 1
+23 put 902 1
+13 put 318 2
+27 put 176 2
+55 put 288 1
+25 put 699 2
+54 put 811 3
+16 put 931 1
+32 put 214 2
+99 put 658 3
+4 put 186 3
+38 put 60 1
+82 put 13 2
+74 put 667 1
+31 put 889 2
+7 put 579 2
+66 put 911 2
+78 put 564 2
+69 put 108 2
+80 get 3
+54 get 3
+75 get 3
+72 get 3
+61 get 3
+27 get 1
+42 get 1
+93 get 1
+4 get 1
+28 get 1
+18 get 2
+62 get 3
+37 get 1
+46 get 2
+97 get 2
+82 get 2
+33 get 3
+67 get 2
+33 get 1
+3 get 3
+86 get 1
+12 get 1
+4 get 1
+26 get 2
+13 get 1
+38 get 1
+46 get 1
+84 get 2
+97 get 2
+4 get 2
+11 get 1
+73 get 2
+99 get 1
+48 get 2
+17 get 2
+94 get 2
+28 get 1
+67 get 2
+46 get 1
+15 get 1
+1 get 1
+20 get 2
+43 get 3
+16 get 2
+82 get 2
+100 get 2
+89 get 1
+100 put 564 1
+12 put 170 1
+4 put 766 1
+72 put 756 3
+21 put 824 3
+28 put 721 1
+23 put 680 2
+2 put 865 2
+95 put 714 1
+1 put 752 1
+23 put 479 3
+43 put 446 1
+95 put 585 1
+52 put 913 1
+8 put 415 1
+71 put 978 2
+98 put 852 2
+83 put 963 3
+4 put 987 3
+97 put 833 2
+47 get 3
+36 get 3
+36 get 3
+88 get 1
+18 get 2
+37 get 2
+37 get 2
+98 get 1
+85 get 1
+78 get 3
+29 get 1
+96 get 3
+18 get 3
+70 get 2
+27 get 3
+16 get 3
+43 get 1
+96 get 1
+30 get 1
+73 get 2
+54 get 1
+15 get 2
+4 get 2
+61 get 3
+49 get 1
+94 get 2
+87 get 2
+36 get 3
+24 get 2
+23 get 1
+51 get 3
+85 get 2
+8 get 2
+1 get 3
+91 get 1
+21 get 3
+20 get 2
+98 get 1
+54 get 2
+38 get 1
+41 get 3
+91 get 1
+17 get 2
+66 get 3
+63 get 2
+20 get 3
+70 get 1
+41 get 1
+67 get 1
+61 get 3
+44 get 2
+80 get 1
+83 get 2
+100 get 2
+95 put 101 1
+31 put 727 2
+38 put 785 1
+45 put 847 1
+94 put 419 3
+23 put 315 3
+73 put 199 1
+60 put 249 3
+1 put 810 2
+70 put 827 2
+70 put 131 2
+50 put 815 3
+16 put 137 2
+39 put 598 1
+83 put 761 2
+10 put 741 3
+72 put 857 1
+43 put 400 3
+82 put 637 1
+69 put 342 1
+63 put 532 2
+28 put 105 3
+47 put 650 1
+15 put 459 2
+82 put 30 2
+58 put 778 1
+57 put 756 3
+15 put 538 2
+50 put 794 1
+55 put 193 2
+80 put 563 2
+31 put 539 2
+79 put 86 3
+20 put 613 2
+14 put 461 2
+14 put 252 3
+44 put 910 3
+100 put 477 3
+100 put 431 1
+85 put 429 3
+87 put 386 1
+50 put 122 3
+1 put 72 3
+70 put 390 2
+32 get 3
+18 get 3
+64 get 2
+5 get 1
+4 get 3
+85 get 2
+14 get 2
+14 get 3
+59 get 2
+25 get 3
+37 get 1
+28 get 2
+96 get 1
+51 get 1
+24 get 3
+59 get 2
+14 get 2
+75 get 2
+46 get 1
+63 get 2
+61 get 2
+54 get 1
+81 get 1
+60 get 1
+17 get 3
+26 get 1
+98 get 1
+60 get 2
+80 get 1
+38 get 1
+57 get 1
+86 get 2
+52 get 3
+1 get 2
+77 get 1
+63 get 3
+79 get 2
+66 get 1
+17 get 2
+71 get 1
+94 get 1
+17 get 2
+89 get 2
+30 get 1
+32 get 1
+97 get 1
+63 get 2
+77 get 1
+75 get 1
+54 get 2
+45 get 2
+33 get 3
+73 get 1
+11 get 1
+97 get 2
+19 put 11 2
+86 put 457 2
+36 put 973 3
+67 put 312 1
+29 put 109 1
+2 put 74 3
+29 put 721 1
+77 put 851 1
+85 put 672 1
+72 put 957 1
+40 put 232 2
+5 put 147 1
+26 put 310 2
+96 put 848 3
+9 put 127 1
+53 put 713 1
+63 put 157 3
+78 put 178 1
+27 put 138 2
+3 put 400 1
+60 put 235 3
+35 put 407 1
+90 put 132 1
+47 put 351 1
+89 put 354 3
+67 put 17 2
+52 put 677 1
+11 put 654 1
+29 get 2
+46 get 2
+89 get 2
+54 get 1
+10 get 1
+96 get 3
+31 get 3
+44 get 2
+28 get 2
+6 get 2
+54 get 1
+21 get 1
+58 get 2
+77 get 1
+8 get 2
+64 get 2
+4 get 1
+45 get 2
+56 get 1
+65 get 1
+73 get 1
+34 get 2
+35 get 1
+79 get 1
+26 get 1
+74 get 3
+99 get 3
+98 get 3
+74 get 1
+89 get 1
+46 get 1
+37 get 2
+5 get 1
+17 get 3
+48 get 1
+56 get 1
+14 put 275 3
+25 put 910 1
+42 put 953 3
+44 put 766 1
+10 put 482 3
+96 put 83 1
+37 put 824 1
+45 put 975 3
+46 put 572 3
+24 put 587 1
+56 put 383 2
+58 put 30 3
+78 put 729 3
+11 put 75 3
+9 put 142 2
+100 put 733 2
+95 put 682 3
+26 put 677 3
+98 put 310 1
+26 put 517 3
+85 put 65 3
+92 put 268 2
+37 put 376 2
+38 put 820 2
+30 put 726 1
+61 put 115 3
+23 put 430 3
+30 put 268 3
+23 put 781 1
+8 put 175 3
+4 put 581 1
+63 put 911 1
+69 put 516 3
+45 put 439 1
+58 put 962 2
+58 put 154 2
+54 put 528 3
+32 put 196 2
+88 put 88 2
+67 put 485 3
+45 put 280 1
+27 put 178 3
+14 put 587 2
+24 put 733 3
+37 put 433 2
+55 put 874 1
+58 put 223 1
+19 get 3
+99 get 3
+24 get 2
+46 get 1
+84 get 2
+58 get 1
+50 get 2
+87 get 3
+34 get 3
+62 get 2
+64 get 2
+11 get 2
+14 get 3
+45 get 2
+33 get 3
+84 get 2
+47 get 2
+82 get 1
+81 get 3
+74 get 1
+83 get 1
+17 get 2
+13 get 3
+52 get 1
+40 get 1
+38 get 3
+71 get 1
+34 get 1
+19 get 2
+92 get 1
+18 get 2
+30 get 3
+86 get 3
+24 get 3
+84 get 2
+69 get 3
+86 get 2
+35 get 3
+22 get 2
+25 get 1
+27 get 1
+53 get 2
+34 get 1
+97 get 3
+31 get 1
+48 get 1
+76 get 3
+97 get 3
+51 get 1
+30 get 2
+30 get 3
+24 put 586 3
+31 put 286 2
+37 put 441 3
+64 put 111 3
+33 put 435 2
+65 put 470 3
+87 put 893 2
+40 put 493 1
+15 put 992 2
+55 put 542 2
+36 put 142 1
+54 put 261 3
+42 put 521 2
+53 put 457 3
+93 put 579 2
+22 put 848 3
+92 put 977 3
+49 put 59 3
+74 put 6 3
+66 put 213 3
+58 get 3
+54 get 3
+51 get 1
+100 get 3
+70 get 1
+1 get 1
+99 get 1
+3 get 1
+82 get 2
+97 get 3
+14 get 3
+61 get 2
+5 get 3
+57 get 2
+26 get 1
+53 get 2
+60 get 2
+69 get 3
+24 get 2
+25 get 1
+46 get 3
+33 get 3
+12 get 1
+12 get 1
+84 get 2
+96 get 2
+89 get 3
+28 get 2
+47 get 2
+66 get 2
+31 get 1
+90 get 2
+23 put 386 3
+83 put 757 1
+31 put 536 2
+92 put 866 3
+79 put 9 2
+86 put 151 3
+60 put 45 3
+7 put 119 2
+40 put 395 2
+51 put 697 3
+23 put 941 3
+1 put 642 1
+90 put 825 2
+82 put 415 1
+95 put 6 1
+75 put 230 2
+38 put 810 3
+83 put 627 1
+80 put 912 2
+28 put 562 3
+70 put 139 1
+42 put 437 1
+50 put 479 3
+5 put 836 2
+58 put 290 3
+12 put 1 2
+89 put 65 3
+44 put 568 1
+51 put 545 1
+43 put 757 3
+97 put 262 2
+54 put 519 1
+3 put 715 3
+51 put 77 1
+7 put 453 1
+21 put 600 2
+38 put 581 3
+65 put 437 3
+49 put 471 3
+14 put 725 2
+86 put 860 2
+29 put 938 3
+55 put 579 1
+63 put 554 2
+18 put 444 2
+95 put 229 2
+39 put 233 2
+73 put 97 3
+40 put 39 3
+43 put 990 1
+63 put 946 2
+37 put 394 3
+64 put 716 3
+74 put 378 2
+92 put 269 1
+45 put 442 2
+54 put 743 2
+45 put 96 1
+10 get 3
+33 get 1
+36 get 1
+72 get 2
+69 get 2
+21 get 3
+49 get 2
+74 get 1
+42 get 2
+8 get 2
+36 get 1
+7 get 2
+59 get 2
+20 get 3
+74 get 1
+15 get 2
+97 get 2
+52 get 1
+31 get 2
+90 get 2
+61 get 3
+93 get 1
+28 get 3
+75 get 3
+58 get 1
+66 get 1
+5 get 2
+15 get 1
+6 get 3
+91 get 2
+23 get 2
+53 get 2
+75 get 3
+49 get 2
+10 get 1
+91 get 1
+49 get 2
+23 put 43 3
+97 put 345 2
+54 put 65 1
+33 put 876 1
+99 put 605 1
+60 put 170 3
+43 put 872 3
+15 put 508 3
+40 put 250 2
+87 put 73 1
+5 put 592 3
+45 put 462 1
+5 put 246 3
+97 put 648 3
+30 put 77 2
+17 put 417 2
+61 put 46 2
+9 put 629 1
+35 put 76 2
+99 put 569 2
+84 put 24 3
+44 put 92 2
+67 put 876 2
+43 put 256 3
+15 put 677 3
+57 put 643 1
+54 put 316 3
+82 put 484 1
+59 put 694 3
+4 put 216 2
+28 put 585 1
+88 put 288 3
+27 put 306 1
+100 put 462 2
+37 put 775 2
+23 put 103 3
+99 put 482 2
+81 put 13 3
+51 get 2
+91 get 2
+63 get 3
+97 get 3
+89 get 3
+82 get 2
+27 get 2
+28 get 1
+47 get 3
+14 get 3
+37 get 3
+2 get 1
+93 get 3
+47 get 1
+21 get 3
+74 get 3
+94 get 3
+82 get 1
+1 get 1
+48 get 2
+47 get 1
+36 get 3
+87 get 2
+78 get 3
+8 get 1
+84 get 2
+1 get 3
+10 get 1
+61 get 2
+2 get 3
+98 get 3
+7 get 3
+78 get 3
+35 get 3
+97 get 2
+58 get 2
+85 get 3
+23 get 3
+94 get 2
+76 get 2
+69 put 383 3
+8 put 939 3
+11 put 348 2
+31 put 931 3
+98 put 738 2
+68 put 557 3
+81 put 483 1
+43 put 585 3
+60 put 645 3
+56 put 301 2
+70 put 868 1
+20 put 363 2
+49 put 528 1
+56 put 30 1
+47 put 678 2
+24 put 275 3
+87 put 929 1
+10 put 547 3
+67 put 631 3
+86 put 78 3
+58 put 156 1
+49 put 500 3
+74 put 401 2
+79 put 408 2
+62 put 490 1
+11 put 999 2
+93 put 481 3
+37 put 897 1
+30 put 305 1
+52 put 720 3
+11 put 931 1
+62 put 977 2
+4 put 854 1
+6 put 785 1
+12 put 508 2
+10 put 254 1
+55 put 859 3
+66 put 990 2
+89 put 261 3
+86 put 166 1
+12 put 287 1
+72 put 199 1
+36 put 656 2
+81 put 231 2
+91 put 801 3
+59 put 561 3
+14 put 914 1
+96 put 75 2
+94 put 112 1
+100 put 583 1
+47 put 500 2
+1 put 674 1
+36 get 3
+45 get 2
+43 get 3
+53 get 1
+52 get 3
+44 get 3
+57 get 1
+75 get 2
+77 get 2
+71 get 2
+17 get 1
+1 get 1
+58 get 3
+96 get 1
+78 get 2
+100 get 3
+97 get 1
+100 get 2
+28 get 2
+57 get 3
+91 get 2
+16 get 2
+39 get 2
+90 get 3
+77 get 1
+33 get 1
+2 get 2
+4 get 3
+7 get 3
+57 get 1
+69 get 3
+35 get 1
+37 get 1
+50 get 1
+13 get 1
+80 get 3
+85 get 2
+58 get 3
+77 get 3
+45 get 1
+97 get 2
+68 get 2
+74 get 2
+100 put 960 1
+36 put 34 3
+68 put 703 3
+36 put 268 2
+26 put 281 2
+89 put 420 3
+88 put 538 1
+64 put 235 3
+18 put 897 1
+38 put 283 1
+16 put 745 3
+2 put 360 2
+70 put 660 3
+71 put 820 1
+80 put 989 3
+48 put 559 2
+79 put 333 3
+12 put 761 1
+87 put 242 3
+8 put 439 1
+32 put 376 3
+53 put 557 3
+43 put 508 1
+4 put 42 2
+72 put 544 1
+55 put 950 1
+1 put 801 3
+6 put 6 2
+20 put 916 2
+45 get 3
+36 get 3
+35 get 3
+29 get 1
+94 get 3
+32 get 1
+52 get 2
+80 get 3
+18 get 3
+98 get 3
+10 get 2
+34 get 2
+58 get 2
+31 get 3
+89 get 3
+10 get 2
+4 get 3
+52 get 1
+77 get 3
+10 get 3
+67 get 3
+35 get 2
+23 get 2
+69 get 3
+22 get 1
+66 get 2
+33 get 3
+15 get 3
+31 get 2
+48 get 1
+72 get 1
+42 get 3
+18 get 3
+72 get 3
+68 get 1
+9 get 3
+68 get 2
+100 get 1
+7 get 1
+87 get 1
+26 get 1
+11 get 2
+46 get 3
+65 get 3
+70 get 2
+59 get 1
+61 get 2
+61 get 3
+21 get 3
+20 get 2
+74 get 1
+89 get 3
+61 get 3
+49 get 2
+77 get 1
+28 get 1
+83 get 1
+85 put 34 3
+2 put 475 2
+25 put 572 2
+27 put 537 1
+24 put 705 2
+27 put 107 3
+74 put 44 2
+4 put 761 1
+49 put 744 1
+90 put 48 2
+55 put 204 2
+22 put 799 3
+99 put 311 1
+4 put 296 1
+75 put 406 2
+63 put 747 2
+72 put 858 2
+42 put 591 3
+100 put 484 3
+72 put 742 2
+93 put 54 1
+5 put 46 2
+64 put 685 2
+13 put 745 3
+40 put 866 2
+75 put 361 1
+13 put 995 3
+22 put 850 3
+63 put 895 3
+23 put 436 3
+29 put 105 1
+67 put 938 1
+93 put 96 1
+59 put 826 3
+93 put 210 3
+3 put 701 3
+38 put 270 3
+85 put 739 1
+46 put 189 1
+96 put 167 1
+71 put 123 1
+40 put 232 3
+46 put 12 2
+51 put 904 1
+23 put 255 2
+50 put 974 2
+14 put 66 2
+20 get 3
+100 get 2
+43 get 1
+72 get 3
+32 get 1
+47 get 1
+45 get 3
+16 get 3
+73 get 3
+69 get 3
+79 get 1
+6 get 2
+74 get 3
+32 get 1
+32 get 1
+58 get 3
+28 get 3
+100 get 2
+90 get 1
+49 get 1
+14 get 2
+77 get 3
+79 get 2
+13 put 883 1
+8 put 799 3
+96 put 633 2
+73 put 823 2
+28 put 361 1
+67 put 582 3
+58 put 998 2
+8 put 613 1
+33 put 742 3
+63 put 369 1
+65 put 558 1
+49 put 288 2
+84 put 266 2
+62 put 742 3
+91 put 793 1
+97 put 773 3
+49 put 946 1
+4 put 492 3
+50 put 86 3
+57 put 349 2
+17 put 94 2
+17 put 416 3
+96 put 877 1
+90 put 946 2
+40 put 96 3
+89 put 749 3
+71 put 416 1
+78 put 925 3
+15 put 357 1
+40 put 190 2
+96 put 279 3
+7 put 365 1
+11 put 707 1
+97 put 426 3
+65 put 122 2
+81 put 742 2
+62 put 969 3
+69 put 93 2
+55 put 929 1
+72 put 540 3
+43 put 485 2
+4 put 550 2
+59 put 808 2
+73 put 490 1
+21 put 367 3
+17 put 769 1
+10 put 365 3
+54 put 604 1
+40 put 611 1
+100 get 2
+68 get 2
+31 get 2
+94 get 2
+77 get 2
+12 get 2
+79 get 3
+22 get 1
+64 get 2
+30 get 3
+38 get 1
+25 get 3
+88 get 2
+2 get 2
+7 get 1
+95 get 2
+23 get 3
+53 get 2
+81 get 2
+91 get 1
+17 get 3
+26 get 1
+50 get 1
+9 get 1
+77 get 1
+52 get 3
+85 get 2
+87 get 1
+63 get 1
+62 get 3
+56 get 3
+44 get 1
+24 get 3
+80 get 2
+61 get 3
+73 get 3
+78 get 3
+70 get 3
+24 get 2
+90 get 3
+14 get 1
+37 get 2
+54 get 3
+30 get 1
+80 get 2
+77 get 1
+93 get 1
+31 get 2
+88 get 2
+14 get 1
+87 get 2
+41 get 1
+75 get 1
+57 get 1
+86 get 2
+9 put 971 3
+80 put 468 1
+16 put 149 3
+12 put 309 3
+13 put 521 3
+58 put 793 1
+24 put 850 1
+88 put 859 3
+26 put 668 3
+40 put 220 3
+63 put 469 3
+71 put 356 3
+49 put 427 2
+6 put 731 3
+12 put 333 3
+22 put 957 3
+29 put 6 3
+10 put 153 3
+16 put 939 2
+38 put 249 3
+67 put 384 2
+26 put 419 3
+38 put 590 1
+93 put 277 1
+95 get 3
+25 get 3
+32 get 1
+94 get 3
+88 get 1
+84 get 2
+3 get 2
+72 get 2
+65 get 1
+1 get 2
+36 get 3
+23 get 1
+12 get 3
+78 get 1
+83 get 2
+14 get 2
+75 get 2
+91 get 2
+49 get 1
+99 get 2
+82 get 2
+38 get 2
+42 get 1
+10 get 3
+54 get 3
+49 get 3
+53 get 2
+28 get 2
+99 get 3
+92 get 3
+4 get 1
+54 get 1
+12 get 3
+79 get 3
+88 get 3
+100 get 3
+86 get 3
+93 get 2
+85 get 2
+56 get 3
+84 get 2
+28 get 1
+31 put 856 2
+20 put 921 2
+84 put 867 1
+55 put 524 2
+15 put 243 2
+19 put 846 3
+62 put 798 1
+93 put 938 3
+72 put 756 2
+14 put 193 1
+22 put 617 3
+53 put 743 3
+38 put 570 1
+21 put 413 2
+61 put 886 2
+40 put 520 3
+80 put 837 3
+69 put 882 1
+32 put 498 1
+91 put 953 3
+33 put 508 3
+5 put 541 3
+92 put 42 2
+83 put 438 3
+71 put 648 1
+6 put 330 3
+67 put 907 2
+11 put 13 2
+22 put 604 1
+97 put 225 3
+6 get 2
+4 get 3
+97 get 3
+53 get 2
+36 get 2
+86 get 1
+12 get 2
+78 get 2
+6 get 2
+84 get 3
+62 get 1
+41 get 1
+38 get 1
+72 get 3
+99 get 3
+57 get 2
+67 get 2
+3 get 2
+91 get 1
+89 get 1
+90 get 1
+2 get 2
+55 get 2
+41 get 3
+52 get 2
+31 get 3
+72 get 3
+78 get 1
+32 get 2
+12 get 1
+29 get 3
+4 get 3
+61 get 2
+82 get 3
+27 get 3
+45 get 3
+32 get 1
+56 get 2
+99 get 1
+64 get 2
+41 get 2
+40 put 448 2
+81 put 252 1
+86 put 474 3
+53 put 863 1
+1 put 900 2
+85 put 843 1
+74 put 413 1
+80 put 874 2
+38 put 236 3
+79 put 483 1
+12 put 872 3
+21 put 925 1
+60 put 753 2
+57 put 715 2
+87 put 957 3
+71 put 409 1
+50 put 217 2
+37 put 585 2
+37 put 345 1
+87 put 394 2
+56 put 530 1
+40 put 25 3
+55 put 953 2
+98 put 934 3
+13 put 997 2
+34 put 738 1
+32 put 962 3
+49 put 665 1
+15 put 605 1
+76 put 287 1
+72 put 963 3
+14 put 996 3
+84 put 971 1
+10 put 875 2
+30 put 531 2
+52 put 558 1
+56 put 66 1
+81 put 7 1
+25 put 698 3
+4 put 258 2
+13 put 266 3
+9 put 966 1
+57 put 94 2
+48 put 663 2
+11 put 419 3
+73 put 520 2
+93 put 308 1
+46 put 470 2
+73 put 257 1
+59 put 75 1
+84 put 335 1
+46 put 966 1
+12 put 422 3
+22 put 926 3
+22 put 729 2
+93 put 363 1
+43 put 176 2
+75 put 152 2
+9 get 3
+89 get 1
+47 get 3
+27 get 1
+83 get 1
+72 get 2
+41 get 3
+85 get 2
+36 get 1
+76 get 2
+74 get 3
+65 get 1
+43 get 1
+24 get 2
+91 get 2
+100 get 1
+56 get 2
+43 get 1
+71 get 2
+85 get 1
+86 get 1
+92 get 3
+70 get 1
+67 get 2
+97 get 3
+71 get 1
+10 get 1
+60 get 3
+72 get 3
+57 get 3
+69 get 2
+11 get 2
+30 get 1
+7 get 2
+85 get 1
+38 get 2
+32 get 2
+89 get 3
+17 get 2
+48 get 3
+85 get 1
+94 get 1
+37 get 2
+56 get 2
+1 get 1
+69 get 1
+64 get 1
+80 get 1
+45 get 3
+51 put 994 3
+28 put 615 2
+48 put 191 3
+95 put 133 1
+29 put 581 2
+100 put 944 2
+4 put 575 3
+4 put 357 1
+19 put 299 1
+80 put 294 3
+37 put 911 3
+5 put 910 1
+97 put 139 1
+84 put 792 1
+15 put 388 1
+60 put 971 1
+37 put 977 3
+27 put 700 1
+38 put 172 3
+25 put 379 3
+86 put 759 2
+81 put 514 1
+65 put 943 2
+19 put 193 1
+9 put 212 3
+98 put 638 2
+34 put 681 3
+9 put 82 3
+98 put 504 1
+71 put 502 3
+74 put 9 2
+39 put 378 3
+63 put 339 3
+22 put 126 3
+34 get 3
+45 get 2
+18 get 2
+48 get 2
+95 get 2
+42 get 2
+76 get 3
+56 get 2
+3 get 1
+63 get 1
+12 get 1
+34 get 3
+11 get 3
+56 get 2
+78 get 2
+42 get 3
+43 get 1
+64 get 3
+6 get 1
+53 get 1
+84 get 1
+31 get 3
+68 get 1
+24 get 2
+24 get 2
+28 get 3
+80 get 1
+19 get 1
+45 get 2
+17 get 3
+4 get 2
+44 get 2
+37 get 3
+21 get 1
+96 get 3
+82 get 2
+9 get 3
+49 get 1
+93 put 367 2
+100 put 493 3
+47 put 646 1
+26 put 205 2
+13 put 722 3
+66 put 473 2
+59 put 251 1
+33 put 334 1
+75 put 267 3
+2 put 628 2
+23 put 401 2
+46 put 718 2
+59 put 779 2
+22 put 248 1
+58 put 360 1
+41 put 669 3
+42 put 356 3
+69 put 544 1
+49 put 458 1
+7 put 527 2
+58 put 337 2
+49 put 789 1
+81 put 6 1
+77 put 201 3
+90 put 6 2
+100 put 731 3
+5 put 334 1
+51 put 150 2
+82 put 519 1
+27 put 639 1
+80 put 577 1
+48 put 205 3
+38 put 108 3
+1 put 344 1
+78 put 276 2
+88 get 3
+46 get 2
+38 get 3
+16 get 3
+3 get 1
+39 get 2
+53 get 3
+85 get 3
+43 get 1
+43 get 1
+28 get 1
+100 get 1
+2 get 3
+78 get 1
+81 get 1
+72 get 3
+62 get 3
+91 get 3
+75 get 2
+69 get 1
+43 get 1
+76 get 3
+15 put 290 2
+59 put 743 2
+14 put 289 1
+60 put 913 2
+16 put 981 1
+79 put 445 1
+78 put 150 2
+71 put 194 2
+89 put 783 1
+94 put 543 1
+15 put 667 2
+75 put 280 1
+27 put 961 1
+22 put 145 2
+38 put 522 2
+85 put 76 2
+66 put 679 3
+48 put 619 3
+12 put 372 1
+56 put 528 1
+59 put 272 1
+37 put 42 3
+77 put 536 1
+15 put 204 1
+88 put 897 3
+29 put 737 3
+31 put 282 1
+27 put 843 2
+45 put 811 1
+50 put 255 3
+94 put 452 3
+95 put 596 1
+92 put 685 2
+3 put 338 3
+100 put 900 1
+64 put 499 1
+32 put 670 2
+10 put 729 1
+94 put 969 3
+25 put 189 3
+9 put 978 3
+8 put 447 3
+62 put 251 3
+46 put 147 2
+12 put 568 1
+56 put 923 2
+79 put 54 3
+65 put 767 2
+49 put 797 3
+15 put 363 3
+30 put 219 3
+65 put 914 1
+24 put 824 2
+46 put 112 1
+23 put 259 3
+92 put 255 1
+36 get 3
+84 get 3
+44 get 2
+4 get 1
+55 get 1
+8 get 1
+15 get 1
+89 get 1
+60 get 1
+61 get 3
+21 get 3
+8 get 2
+57 get 1
+7 get 3
+66 get 2
+24 get 2
+73 get 1
+40 get 2
+65 get 1
+41 get 2
+46 get 3
+79 get 2
+99 get 1
+15 get 3
+80 get 2
+78 get 2
+89 get 3
+58 get 1
+8 get 1
+17 get 1
+70 get 2
+31 get 3
+84 get 3
+81 get 3
+25 get 2
+44 get 1
+27 get 1
+41 get 1
+77 get 2
+49 get 1
+56 get 3
+33 get 1
+37 get 2
+74 get 1
+80 get 3
+85 get 2
+51 get 2
+36 put 432 3
+56 put 696 3
+14 put 561 1
+23 put 644 2
+31 put 634 2
+25 put 754 2
+48 put 839 3
+50 put 164 1
+69 put 697 2
+25 put 355 1
+88 put 162 1
+6 put 971 3
+60 put 957 1
+37 put 140 2
+72 put 767 2
+33 put 160 3
+5 put 649 3
+11 put 466 2
+84 put 332 2
+94 put 139 2
+13 put 283 3
+32 put 222 2
+1 put 802 2
+3 put 202 3
+91 put 917 2
+61 put 43 1
+76 put 559 2
+59 put 210 2
+56 put 874 2
+43 put 965 1
+26 put 811 3
+23 put 782 2
+49 put 300 3
+73 put 658 1
+55 put 275 1
+35 put 246 3
+11 put 617 1
+48 put 976 2
+95 put 210 1
+29 put 591 2
+40 put 494 2
+9 put 603 3
+10 put 236 1
+49 put 57 3
+39 get 2
+2 get 3
+81 get 3
+33 get 1
+62 get 2
+53 get 3
+4 get 1
+10 get 2
+12 get 2
+80 get 3
+63 get 2
+65 get 1
+12 get 3
+66 get 1
+65 get 3
+12 get 1
+88 get 1
+82 get 1
+51 get 1
+98 get 3
+18 get 2
+78 get 3
+50 get 1
+43 get 2
+16 get 3
+64 get 3
+6 get 2
+4 get 3
+58 get 1
+35 get 3
+65 get 3
+74 get 3
+27 get 1
+10 get 2
+65 get 1
+40 get 2
+83 get 3
+40 get 2
+74 get 2
+33 get 1
+56 get 2
+65 get 1
+43 get 2
+92 get 2
+64 put 423 2
+22 put 602 1
+50 put 797 3
+75 put 462 2
+7 put 86 1
+13 put 714 2
+83 put 69 3
+66 put 525 1
+73 put 504 2
+45 put 502 3
+66 put 563 2
+3 put 299 2
+21 put 622 1
+48 put 130 2
+77 put 101 2
+7 put 444 2
+38 put 334 3
+49 put 317 2
+100 put 163 1
+80 put 520 1
+95 put 505 3
+92 put 573 3
+91 put 905 1
+7 put 21 3
+55 put 225 3
+37 put 24 1
+45 put 638 3
+15 put 762 2
+69 put 564 3
+33 put 794 2
+81 put 275 2
+97 put 852 3
+96 put 933 3
+81 put 88 2
+38 put 887 3
+95 put 687 3
+76 put 945 1
+68 put 590 3
+5 put 391 3
+63 put 746 2
+96 put 207 1
+8 put 67 3
+90 put 706 2
+40 put 727 1
+84 put 146 3
+80 put 118 3
+95 put 218 3
+25 put 542 1
+35 get 2
+68 get 1
+10 get 3
+44 get 1
+32 get 3
+71 get 1
+63 get 2
+70 get 3
+87 get 3
+59 get 3
+42 get 3
+23 get 1
+46 get 2
+23 get 1
+28 get 3
+15 get 1
+48 get 1
+59 get 1
+90 get 2
+39 get 2
+50 get 2
+7 get 2
+82 get 3
+63 get 2
+52 get 1
+23 get 2
+20 get 1
+66 get 1
+43 get 3
+61 get 2
+17 get 2
+24 get 1
+96 get 2
+5 get 2
+14 get 1
+52 get 3
+29 get 1
+99 get 3
+72 get 3
+49 get 2
+45 get 1
+84 put 589 1
+77 put 390 3
+17 put 831 1
+60 put 803 3
+38 put 569 1
+44 put 886 3
+62 put 391 3
+62 put 806 1
+48 put 321 1
+37 put 255 1
+6 put 317 1
+82 put 690 3
+58 put 426 3
+47 put 52 2
+73 put 838 3
+80 put 611 2
+53 put 924 2
+28 put 935 3
+42 put 24 1
+61 put 302 2
+21 put 370 2
+4 put 160 3
+17 put 217 3
+23 put 733 2
+42 put 933 1
+78 put 507 3
+40 put 615 2
+30 put 93 3
+41 put 503 2
+45 put 257 2
+77 put 475 1
+29 put 651 3
+25 put 90 1
+16 put 253 1
+32 put 939 3
+59 put 861 3
+72 put 670 2
+93 put 679 3
+3 put 213 3
+78 put 756 1
+94 put 732 1
+59 put 638 2
+88 put 602 1
+26 put 782 3
+4 put 33 2
+2 put 86 2
+90 put 942 2
+93 put 585 3
+62 put 594 1
+38 put 82 1
+33 put 977 1
+23 put 68 2
+23 put 144 2
+96 put 908 2
+24 get 3
+90 get 1
+7 get 1
+93 get 1
+83 get 1
+85 get 3
+21 get 1
+82 get 1
+66 get 3
+51 get 1
+38 get 3
+75 get 1
+15 get 1
+94 get 2
+29 get 2
+91 get 2
+24 get 2
+60 get 2
+62 get 3
+67 get 3
+68 get 3
+57 get 2
+91 get 2
+23 get 2
+12 get 3
+26 get 3
+34 get 1
+82 put 250 2
+12 put 199 3
+1 put 496 3
+32 put 818 2
+19 put 117 3
+7 put 33 2
+46 put 258 3
+94 put 745 1
+73 put 239 1
+66 put 653 1
+22 put 967 2
+100 put 406 1
+8 put 880 3
+67 put 66 3
+91 put 679 2
+49 put 825 2
+98 put 427 2
+2 put 32 3
+9 put 393 3
+84 put 912 3
+76 put 301 1
+13 put 379 3
+32 put 114 2
+44 put 957 2
+95 put 542 2
+36 put 854 3
+92 put 125 1
+12 put 568 2
+86 put 963 3
+51 put 73 1
+23 put 285 2
+59 put 814 2
+65 put 928 2
+13 put 111 3
+92 put 190 1
+88 put 827 2
+17 put 266 1
+46 put 38 3
+84 put 226 3
+34 put 259 3
+46 put 315 1
+26 get 3
+9 get 2
+35 get 2
+11 get 2
+93 get 1
+32 get 1
+93 get 1
+68 get 2
+68 get 2
+24 get 3
+99 get 2
+60 get 2
+42 get 2
+30 get 3
+62 get 1
+23 get 3
+87 get 2
+88 get 2
+22 get 2
+35 get 3
+15 get 2
+58 get 3
+90 get 3
+47 get 1
+47 get 3
+61 get 3
+100 put 96 2
+49 put 435 2
+78 put 129 3
+7 put 451 3
+62 put 435 1
+72 put 113 2
+52 put 702 1
+47 put 865 2
+42 put 84 2
+11 put 450 2
+91 put 121 1
+4 put 115 3
+81 put 705 3
+4 put 713 1
+39 put 502 2
+48 put 173 3
+13 put 836 3
+85 put 730 3
+49 put 582 2
+66 put 560 1
+37 put 98 2
+56 put 874 2
+93 put 451 2
+41 put 437 3
+11 put 224 1
+28 get 2
+3 get 3
+84 get 3
+85 get 1
+92 get 3
+11 get 3
+17 get 1
+71 get 2
+56 get 3
+55 get 2
+95 get 1
+65 get 1
+46 get 3
+94 get 3
+32 get 1
+95 get 2
+26 get 3
+69 get 3
+80 get 2
+70 get 3
+94 get 2
+32 get 2
+33 get 2
+12 get 1
+75 get 3
+16 get 3
+69 get 1
+87 get 3
+90 get 3
+37 put 373 3
+64 put 560 2
+79 put 460 3
+50 put 700 3
+2 put 963 1
+55 put 477 2
+74 put 24 1
+2 put 855 2
+16 put 930 1
+75 put 364 3
+2 put 929 1
+96 put 15 3
+19 put 263 3
+83 put 486 1
+18 put 602 1
+22 put 104 3
+81 put 426 1
+64 put 305 1
+12 put 811 2
+45 put 149 1
+80 put 82 2
+46 put 856 1
+91 put 672 3
+86 put 779 3
+43 put 197 3
+64 put 808 1
+15 put 4 3
+42 put 88 2
+18 put 323 2
+40 put 518 3
+91 put 719 1
+57 put 680 1
+62 put 423 1
+38 put 725 2
+1 put 346 1
+68 put 575 2
+37 put 692 3
+69 put 28 2
+10 put 45 3
+10 get 2
+59 get 2
+72 get 2
+38 get 2
+20 get 3
+21 get 1
+66 get 2
+20 get 2
+81 get 2
+89 get 3
+69 get 1
+47 get 1
+5 get 3
+20 get 1
+58 get 1
+1 get 3
+73 get 3
+18 get 3
+53 get 3
+71 get 2
+3 get 2
+77 get 2
+34 get 1
+39 get 3
+26 get 2
+49 get 2
+3 get 3
+78 get 2
+86 get 2
+41 get 1
+68 get 1
+38 get 1
+1 get 2
+68 get 2
+79 get 3
+16 get 1
+89 put 963 1
+82 put 185 2
+15 put 186 2
+44 put 776 3
+29 put 244 3
+10 put 849 1
+22 put 407 3
+24 put 831 2
+7 put 390 2
+67 put 452 2
+28 put 912 2
+62 put 192 1
+20 put 923 2
+39 put 648 3
+23 put 961 3
+41 put 653 2
+34 put 327 1
+41 put 203 1
+11 put 110 2
+52 put 718 3
+10 put 618 1
+34 put 172 1
+54 put 356 3
+8 put 865 3
+48 put 493 1
+7 put 444 3
+95 put 436 2
+76 put 632 3
+79 put 610 3
+92 put 697 2
+15 put 713 3
+64 put 104 3
+59 put 770 1
+63 put 785 3
+30 put 954 1
+66 put 441 1
+90 put 312 1
+87 put 174 1
+18 put 490 1
+73 put 79 3
+35 put 515 1
+51 put 395 1
+37 put 941 1
+7 get 1
+3 get 3
+54 get 1
+76 get 1
+29 get 1
+32 get 3
+93 get 1
+25 get 1
+77 get 1
+42 get 3
+95 get 1
+28 get 3
+88 get 1
+81 get 3
+70 get 3
+50 get 2
+90 get 3
+62 get 3
+80 get 1
+63 get 2
+51 get 2
+5 get 3
+9 get 1
+82 get 3
+77 get 3
+49 get 2
+66 get 2
+84 get 2
+5 get 2
+3 get 3
+34 get 1
+73 get 3
+100 get 3
+21 get 2
+58 put 462 2
+48 put 749 3
+38 put 692 1
+68 put 797 1
+68 put 837 3
+26 put 27 3
+79 put 2 2
+22 put 54 2
+89 put 246 2
+53 put 366 1
+30 put 662 3
+58 put 674 2
+80 put 392 1
+54 put 133 2
+93 put 908 1
+28 put 526 2
+91 put 381 3
+66 put 116 1
+60 put 935 3
+52 put 761 1
+55 put 644 2
+45 put 804 1
+76 put 949 1
+66 put 106 1
+76 put 424 3
+56 put 210 3
+89 put 18 3
+48 put 593 3
+19 put 470 1
+73 put 540 2
+5 put 414 3
+89 put 906 3
+8 put 248 2
+61 put 603 2
+32 put 285 1
+41 put 589 1
+54 put 578 2
+97 put 226 2
+77 put 514 2
+10 put 194 1
+24 put 249 1
+99 put 333 2
+54 put 215 1
+81 put 202 2
+18 put 307 3
+13 put 454 2
+23 put 125 1
+30 get 1
+65 get 1
+60 get 1
+8 get 1
+59 get 1
+48 get 2
+39 get 3
+45 get 1
+49 get 2
+2 get 3
+35 get 3
+88 get 1
+36 get 2
+71 get 2
+51 get 1
+67 get 2
+44 get 3
+67 get 2
+54 get 3
+60 get 2
+97 get 3
+10 get 2
+86 get 1
+12 get 3
+98 get 1
+65 get 1
+78 get 2
+57 get 3
+80 get 2
+69 get 2
+90 get 1
+66 get 2
+77 get 2
+26 get 3
+86 get 2
+72 get 2
+61 get 3
+35 get 1
+7 get 3
+90 get 2
+8 get 2
+6 get 1
+74 get 1
+90 get 2
+37 get 2
+76 get 1
+96 get 1
+87 get 3
+76 get 2
+86 get 3
+38 get 3
+91 get 3
+7 put 603 2
+72 put 510 1
+9 put 548 1
+24 put 5 3
+14 put 583 3
+44 put 14 1
+34 put 587 1
+31 put 693 2
+81 put 184 2
+81 put 398 3
+15 put 574 2
+71 put 591 1
+10 put 261 3
+27 put 682 3
+83 put 628 3
+73 put 898 3
+55 put 230 3
+36 put 758 1
+17 put 313 2
+32 put 487 3
+48 put 971 3
+90 put 898 1
+46 put 518 3
+48 put 973 3
+92 put 492 3
+61 put 433 2
+10 put 203 3
+16 put 184 1
+68 put 592 1
+36 put 190 3
+38 put 963 1
+63 put 755 1
+56 put 108 3
+19 put 859 2
+4 put 413 2
+42 put 455 1
+36 put 970 2
+32 get 1
+74 get 1
+62 get 1
+79 get 3
+99 get 3
+33 get 3
+90 get 3
+52 get 2
+93 get 3
+86 get 2
+71 get 1
+74 get 1
+78 get 3
+26 get 1
+95 get 3
+26 get 3
+77 get 1
+25 get 3
+12 get 3
+87 get 2
+45 get 3
+12 get 2
+41 get 2
+45 get 1
+59 get 3
+24 put 606 1
+11 put 23 1
+94 put 314 3
+95 put 454 1
+50 put 843 1
+64 put 94 2
+89 put 831 2
+37 put 616 3
+29 put 575 2
+84 put 525 2
+29 put 867 1
+83 put 775 3
+81 put 956 2
+8 put 905 2
+42 put 30 1
+91 put 659 3
+3 put 63 2
+12 put 308 1
+24 put 32 2
+83 put 666 2
+54 put 604 2
+82 put 13 1
+40 put 785 3
+5 put 984 3
+49 put 112 1
+76 put 888 2
+97 put 13 3
+42 put 180 1
+20 put 425 2
+45 put 418 3
+91 put 444 2
+62 put 159 1
+46 put 58 3
+24 get 1
+96 get 2
+50 get 3
+21 get 1
+94 get 3
+67 get 3
+68 get 3
+21 get 2
+32 get 1
+54 get 1
+20 get 2
+39 get 3
+72 get 2
+12 get 3
+51 get 3
+47 get 2
+94 get 3
+86 get 2
+24 get 2
+59 get 3
+1 put 405 1
+86 put 36 3
+18 put 185 2
+29 put 941 3
+11 put 398 1
+71 put 525 1
+98 put 660 2
+11 put 482 1
+25 put 804 3
+18 put 31 2
+51 put 394 3
+74 put 405 1
+34 put 156 3
+80 put 429 3
+15 put 60 2
+8 put 885 1
+79 put 986 3
+51 put 368 1
+14 put 666 3
+95 put 919 2
+89 put 154 1
+25 put 623 1
+89 put 362 2
+62 put 95 1
+20 put 712 1
+36 put 431 3
+59 put 922 3
+86 put 393 3
+76 put 360 1
+52 put 268 1
+94 put 797 3
+92 put 902 2
+74 put 870 3
+29 put 942 3
+76 put 759 1
+67 put 588 3
+32 put 555 2
+44 put 56 2
+31 put 598 2
+64 put 94 3
+33 put 390 3
+16 put 802 3
+18 put 70 1
+32 put 147 3
+80 put 418 1
+71 put 735 1
+72 get 2
+16 get 1
+60 get 1
+4 get 2
+66 get 1
+86 get 1
+84 get 2
+83 get 3
+99 get 2
+64 get 2
+67 get 3
+35 get 3
+23 get 2
+43 get 3
+56 get 2
+77 get 2
+64 get 1
+40 get 2
+53 get 3
+74 get 1
+96 get 1
+71 get 2
+31 get 2
+53 get 2
+2 get 1
+10 get 1
+32 get 3
+15 get 3
+16 get 3
+83 get 1
+20 get 2
+46 get 1
+61 get 2
+58 get 1
+33 put 97 1
+32 put 84 2
+12 put 797 1
+90 put 18 1
+79 put 230 1
+1 put 93 2
+65 put 670 2
+42 put 83 1
+61 put 64 3
+76 put 354 1
+2 put 489 1
+62 put 553 3
+33 put 158 1
+66 put 14 3
+3 put 580 2
+64 put 361 2
+19 put 725 2
+21 put 770 1
+43 put 613 2
+20 put 363 1
+31 put 374 2
+35 put 543 3
+82 put 231 3
+100 put 515 2
+69 put 916 3
+37 put 212 2
+31 get 1
+24 get 2
+69 get 1
+87 get 1
+72 get 2
+66 get 3
+6 get 3
+62 get 3
+27 get 1
+15 get 2
+9 get 3
+50 get 1
+90 get 3
+15 get 1
+90 get 3
+70 get 3
+23 get 1
+58 get 2
+20 get 1
+15 get 3
+96 get 1
+29 get 2
+60 put 673 1
+17 put 151 3
+21 put 851 3
+60 put 823 2
+68 put 31 2
+56 put 441 2
+16 put 390 3
+9 put 415 2
+92 put 33 1
+55 put 241 1
+28 put 269 1
+99 put 794 2
+69 put 304 1
+27 put 244 2
+3 put 315 2
+4 put 245 3
+66 put 67 2
+37 put 665 2
+94 put 877 1
+30 put 840 3
+54 get 1
+77 get 2
+50 get 1
+74 get 2
+5 get 2
+56 get 2
+54 get 2
+8 get 3
+34 get 3
+37 get 1
+59 get 3
+43 get 1
+29 get 3
+2 get 2
+99 get 1
+77 get 3
+56 get 1
+75 get 1
+15 get 3
+44 get 1
+57 get 3
+66 get 2
+27 get 3
+26 get 2
+68 get 2
+29 get 1
+77 get 2
+33 get 3
+6 get 2
+31 get 2
+86 get 1
+18 get 2
+43 get 2
+36 get 3
+36 get 3
+19 get 2
+86 get 3
+42 get 1
+19 get 2
+27 get 3
+55 get 1
+75 get 2
+10 get 1
+30 get 1
+42 get 2
+5 get 3
+11 get 2
+55 get 1
+30 get 1
+46 get 1
+58 get 2
+19 put 665 1
+38 put 732 1
+68 put 571 1
+88 put 598 3
+18 put 588 1
+95 put 401 3
+93 put 739 1
+14 put 304 2
+17 put 484 2
+13 put 981 3
+38 put 165 2
+22 put 612 2
+12 put 728 3
+1 put 813 1
+15 put 555 3
+11 put 234 2
+37 put 722 2
+61 put 637 2
+98 put 497 1
+31 put 948 3
+41 put 28 1
+40 put 29 1
+79 put 251 1
+80 put 6 3
+15 put 884 2
+20 put 696 3
+21 put 446 3
+42 put 53 3
+28 put 531 3
+90 put 505 3
+74 put 603 1
+100 put 694 3
+11 put 656 2
+91 put 852 1
+68 put 78 2
+29 put 860 2
+70 put 434 1
+3 put 677 2
+36 put 830 2
+97 put 885 3
+80 put 339 2
+20 put 464 1
+35 put 864 3
+38 put 10 3
+36 put 721 2
+44 put 357 1
+71 put 748 2
+61 put 249 2
+91 put 542 1
+75 put 679 1
+9 put 952 1
+94 put 545 2
+6 put 527 1
+99 get 3
+35 get 1
+93 get 1
+89 get 3
+41 get 3
+38 get 1
+89 get 3
+91 get 3
+5 get 2
+24 get 3
+58 get 3
+38 get 3
+65 get 2
+28 get 2
+97 get 2
+39 get 1
+75 get 3
+1 get 1
+11 get 3
+42 get 3
+30 get 2
+20 get 2
+23 get 1
+8 get 1
+70 get 2
+94 get 1
+25 get 2
+89 get 3
+96 get 3
+71 get 2
+62 get 1
+31 get 3
+90 get 3
+87 get 2
+72 get 1
+15 get 3
+73 get 3
+52 get 2
+65 get 3
+65 get 3
+18 get 3
+9 get 3
+39 get 1
+73 put 776 3
+27 put 42 1
+15 put 382 3
+31 put 838 2
+89 put 55 2
+100 put 910 3
+80 put 522 2
+41 put 883 1
+23 put 455 3
+95 put 87 3
+55 put 323 1
+11 put 206 2
+20 put 216 3
+18 put 560 2
+57 put 748 2
+39 put 494 1
+61 put 294 2
+49 put 122 2
+8 put 293 1
+56 put 895 2
+12 put 834 3
+39 put 829 3
+44 put 359 1
+12 put 786 3
+61 put 19 1
+98 put 657 2
+82 put 292 3
+57 put 252 3
+93 put 579 1
+55 put 245 3
+32 put 972 3
+3 put 919 2
+53 put 894 1
+90 put 82 3
+84 put 114 1
+7 put 592 3
+65 put 500 3
+87 put 957 1
+29 put 998 2
+46 put 749 3
+91 put 239 3
+7 put 488 2
+43 put 933 3
+24 put 585 1
+62 put 175 3
+78 put 165 3
+24 put 219 3
+24 put 551 3
+90 put 874 2
+89 put 574 1
+86 put 769 3
+32 get 1
+26 get 3
+51 get 2
+64 get 2
+62 get 2
+94 get 2
+2 get 2
+27 get 2
+8 get 2
+29 get 1
+44 get 3
+88 get 3
+94 get 3
+45 get 1
+61 get 1
+16 get 2
+36 get 2
+13 get 2
+64 get 1
+88 get 1
+31 get 2
+4 get 2
+31 get 2
+83 get 1
+55 put 756 3
+66 put 415 2
+46 put 151 2
+54 put 308 3
+16 put 153 3
+4 put 202 1
+92 put 647 2
+74 put 828 1
+36 put 517 2
+85 put 680 1
+87 put 274 3
+91 put 401 3
+80 put 22 2
+46 put 618 1
+38 put 72 3
+70 put 154 2
+22 put 299 3
+15 put 692 1
+38 put 695 3
+67 put 734 2
+79 put 999 2
+50 put 501 1
+15 put 672 1
+75 put 345 2
+54 put 795 3
+47 put 970 1
+54 put 536 2
+31 put 275 3
+12 put 255 1
+16 put 307 2
+48 put 501 2
+85 put 2 1
+84 get 2
+44 get 3
+8 get 1
+39 get 2
+32 get 2
+30 get 3
+39 get 1
+2 get 1
+78 get 3
+64 get 3
+99 get 3
+37 get 3
+38 get 1
+19 get 2
+97 get 2
+76 get 2
+88 get 3
+92 get 3
+67 get 1
+73 get 3
+29 get 1
+87 get 2
+84 put 581 3
+48 put 282 3
+27 put 861 1
+50 put 414 2
+29 put 286 2
+81 put 399 2
+15 put 649 3
+86 put 615 1
+78 put 761 3
+81 put 905 3
+34 put 282 2
+41 put 897 3
+82 put 700 2
+66 put 207 1
+11 put 62 2
+4 put 599 2
+97 put 849 3
+20 put 796 2
+90 put 224 1
+45 put 950 1
+53 put 640 1
+100 put 588 2
+35 put 24 2
+6 put 264 2
+57 put 489 3
+43 put 632 2
+55 put 962 2
+42 put 94 1
+45 put 381 3
+83 put 228 3
+38 put 893 2
+9 put 436 1
+26 put 512 1
+90 put 920 2
+77 put 593 3
+16 put 366 3
+86 put 461 2
+55 put 236 1
+60 put 100 1
+57 put 752 3
+28 put 910 3
+6 put 213 3
+48 put 363 2
+60 put 786 2
+38 put 629 3
+52 put 182 1
+28 put 273 1
+37 put 658 1
+11 put 213 1
+11 get 3
+2 get 2
+55 get 3
+82 get 1
+18 get 1
+54 get 2
+4 get 1
+64 get 1
+71 get 2
+94 get 1
+3 get 2
+26 get 1
+99 get 2
+19 get 3
+27 get 3
+71 get 2
+81 get 3
+59 get 1
+4 get 1
+72 get 3
+15 get 3
+9 get 1
+22 get 3
+62 get 2
+28 get 3
+5 get 1
+80 get 3
+28 get 2
+91 get 3
+3 get 3
+50 get 3
+46 get 2
+94 get 2
+91 get 3
+16 get 2
+37 get 2
+73 get 1
+87 get 2
+44 get 1
+96 get 1
+14 get 3
+30 get 1
+71 get 1
+13 get 2
+43 get 3
+89 get 3
+68 get 3
+85 get 1
+60 get 3
+40 put 256 3
+79 put 382 2
+18 put 703 1
+92 put 889 2
+60 put 458 1
+67 put 818 3
+18 put 321 1
+18 put 93 1
+45 put 19 1
+48 put 506 3
+87 put 899 1
+58 put 749 2
+58 put 170 1
+92 put 394 3
+64 put 787 1
+100 put 722 1
+8 put 732 3
+88 put 629 3
+76 put 654 1
+1 put 930 3
+77 put 947 2
+61 put 721 3
+92 put 10 3
+37 put 750 2
+52 put 537 1
+72 put 591 1
+42 put 463 2
+76 put 184 3
+53 put 883 1
+53 put 161 2
+8 put 891 3
+89 put 361 2
+42 put 15 2
+84 put 268 3
+49 put 328 1
+14 put 487 2
+56 put 715 1
+70 put 869 2
+61 put 740 2
+24 put 741 2
+14 put 580 3
+72 put 17 2
+74 put 811 3
+83 put 821 1
+79 put 184 1
+1 put 428 2
+68 put 788 2
+3 put 488 1
+2 get 2
+51 get 2
+88 get 3
+78 get 3
+65 get 3
+13 get 3
+34 get 2
+26 get 2
+61 get 1
+55 get 2
+72 get 1
+66 get 3
+20 get 3
+89 get 1
+98 get 1
+31 get 2
+84 get 2
+66 get 3
+3 get 2
+39 get 3
+7 get 2
+80 get 2
+84 get 1
+69 get 3
+93 get 2
+27 get 1
+35 get 1
+21 get 2
+34 get 1
+60 get 1
+69 get 1
+13 get 3
+52 get 1
+65 put 703 1
+1 put 403 2
+86 put 188 1
+16 put 218 3
+13 put 268 3
+7 put 833 2
+20 put 682 1
+84 put 791 2
+41 put 554 3
+23 put 454 2
+92 put 32 2
+14 put 150 1
+69 put 509 1
+38 put 624 3
+84 put 897 3
+11 put 711 3
+69 put 290 2
+29 put 848 2
+62 put 212 3
+7 put 956 2
+43 put 809 3
+81 put 29 3
+91 put 15 2
+4 put 91 1
+82 put 57 3
+12 put 878 2
+11 put 477 3
+100 put 479 2
+98 put 684 1
+67 put 130 3
+51 put 712 3
+61 put 934 3
+76 put 105 3
+22 put 733 1
+41 put 192 3
+77 put 648 2
+26 put 248 1
+14 put 577 1
+20 put 809 1
+91 put 466 3
+15 put 823 3
+25 put 383 2
+15 put 971 3
+24 put 582 1
+68 put 83 1
+89 put 449 1
+86 put 147 3
+54 put 688 3
+7 put 602 3
+59 put 357 3
+33 put 608 2
+44 put 438 3
+94 get 2
+29 get 1
+9 get 1
+65 get 2
+66 get 3
+65 get 2
+97 get 2
+5 get 3
+13 get 2
+31 get 3
+30 get 1
+82 get 1
+13 get 2
+49 get 3
+25 get 1
+73 get 2
+84 get 1
+26 get 3
+99 get 1
+54 get 1
+21 get 2
+24 get 2
+34 get 2
+31 get 3
+77 get 3
+59 get 1
+73 get 1
+4 get 1
+72 get 3
+72 get 1
+76 put 429 2
+75 put 672 3
+73 put 218 1
+74 put 158 3
+57 put 606 2
+12 put 152 3
+87 put 770 3
+19 put 821 1
+75 put 826 2
+60 put 574 3
+84 put 316 3
+49 put 961 1
+85 put 28 1
+91 put 370 1
+32 put 329 2
+53 put 785 3
+20 put 192 3
+63 put 939 3
+45 put 244 1
+99 put 892 3
+64 put 277 1
+23 put 337 3
+5 put 257 2
+92 put 127 3
+71 put 791 1
+66 put 644 2
+40 put 679 2
+28 put 851 3
+37 put 307 2
+92 put 675 2
+44 put 607 3
+16 put 374 1
+74 put 20 1
+20 put 322 2
+35 put 37 2
+25 put 762 3
+71 put 43 2
+91 put 923 1
+26 put 451 2
+89 get 3
+53 get 1
+63 get 1
+4 get 2
+32 get 3
+45 get 1
+50 get 1
+94 get 1
+62 get 3
+51 get 2
+3 get 2
+25 get 2
+23 get 1
+59 get 1
+1 get 1
+34 get 3
+1 get 1
+23 get 3
+79 get 2
+30 get 3
+34 get 3
+36 get 1
+71 get 1
+57 get 1
+7 get 3
+26 get 3
+41 get 2
+49 get 2
+83 get 3
+59 get 3
+62 get 2
+52 get 3
+51 get 3
+43 get 2
+23 get 1
+70 get 3
+18 get 3
+55 get 2
+11 get 2
+12 get 3
+79 get 2
+65 get 1
+80 get 3
+27 get 3
+16 get 2
+40 get 3
+30 put 344 3
+94 put 646 2
+64 put 293 1
+59 put 939 1
+26 put 275 1
+10 put 594 2
+100 put 554 1
+88 put 723 3
+79 put 228 1
+83 put 71 3
+4 put 775 1
+96 put 268 3
+100 put 754 1
+1 put 227 1
+36 put 491 3
+38 put 234 3
+31 put 903 1
+45 put 297 3
+79 put 505 1
+83 put 186 2
+73 put 434 2
+38 put 737 1
+86 put 676 3
+56 put 382 1
+65 put 736 2
+65 put 946 1
+76 put 337 2
+89 put 652 1
+86 put 654 1
+36 put 620 2
+36 put 536 1
+56 put 974 3
+66 put 501 2
+67 put 234 2
+13 put 518 1
+57 put 181 2
+8 put 410 2
+54 put 540 3
+54 put 258 1
+89 put 480 3
+91 put 728 1
+87 put 89 1
+99 put 73 1
+79 put 33 3
+48 put 763 3
+62 put 492 1
+23 put 857 3
+18 put 191 1
+35 put 787 2
+68 put 365 3
+55 put 223 3
+49 put 774 2
+78 put 154 3
+67 get 2
+62 get 2
+42 get 2
+93 get 2
+37 get 2
+4 get 3
+8 get 2
+1 get 3
+83 get 1
+3 get 1
+5 get 3
+14 get 3
+5 get 3
+51 get 2
+66 get 3
+70 get 3
+76 get 1
+74 get 3
+81 get 3
+85 get 3
+72 get 1
+89 get 1
+93 get 3
+22 get 3
+7 get 2
+93 get 1
+69 put 341 2
+59 put 654 1
+38 put 55 1
+7 put 682 2
+12 put 246 2
+74 put 45 1
+29 put 750 3
+56 put 635 1
+27 put 506 3
+9 put 655 3
+23 put 862 3
+69 put 113 2
+17 put 767 1
+30 put 311 1
+99 put 423 1
+89 put 428 1
+33 put 709 2
+92 put 147 3
+39 put 266 1
+95 put 402 1
+82 put 988 2
+40 put 974 3
+4 put 994 2
+8 put 786 3
+26 put 820 3
+47 put 699 1
+40 put 133 2
+72 put 764 1
+12 put 643 1
+84 put 912 2
+90 put 41 3
+16 put 8 1
+1 put 783 2
+70 put 373 1
+91 put 234 1
+38 put 841 3
+84 put 981 2
+20 put 264 2
+11 put 913 3
+29 put 852 3
+67 get 2
+72 get 2
+38 get 3
+42 get 3
+22 get 1
+17 get 2
+99 get 3
+43 get 3
+33 get 3
+5 get 1
+74 get 2
+9 get 3
+69 get 1
+22 get 1
+58 get 1
+55 get 2
+7 get 3
+25 get 2
+66 get 1
+35 get 1
+7 get 3
+90 get 3
+32 get 1
+75 get 1
+87 get 1
+85 get 1
+23 get 1
+42 get 3
+19 get 3
+46 get 3
+93 get 3
+38 get 2
+39 get 3
+77 get 2
+97 get 3
+22 get 2
+18 get 1
+98 get 3
+52 get 1
+10 get 1
+2 get 2
+44 get 1
+67 get 1
+96 get 2
+25 get 2
+2 get 1
+37 get 1
+99 get 2
+23 put 869 2
+31 put 663 1
+74 put 793 1
+69 put 81 2
+7 put 661 2
+52 put 669 2
+11 put 84 2
+63 put 318 3
+30 put 560 3
+60 put 413 1
+20 put 87 1
+36 put 653 1
+66 put 485 1
+50 put 203 2
+99 put 893 1
+24 put 437 1
+14 put 928 2
+17 put 309 3
+16 put 282 3
+91 put 46 1
+21 put 586 2
+41 put 848 1
+7 put 958 2
+82 put 24 1
+32 put 535 1
+93 put 675 3
+56 put 860 1
+68 put 113 3
+76 put 544 1
+74 get 3
+68 get 1
+21 get 3
+73 get 3
+23 get 2
+34 get 2
+22 get 1
+23 get 2
+60 get 1
+69 get 1
+28 get 3
+98 get 2
+69 get 1
+51 get 2
+32 get 2
+3 get 3
+61 get 1
+73 get 3
+12 get 3
+51 get 2
+4 get 2
+44 get 3
+7 get 1
+49 get 2
+7 get 2
+65 get 2
+18 get 3
+56 get 1
+13 get 1
+46 get 1
+78 get 3
+13 get 1
+67 get 2
+86 get 1
+96 get 3
+88 get 3
+86 get 1
+60 get 3
+83 get 1
+40 get 3
+27 get 3
+43 get 1
+29 get 3
+2 get 3
+61 get 3
+39 get 3
+38 get 1
+8 get 3
+12 get 3
+80 get 3
+92 get 2
+97 get 2
+29 get 2
+67 get 2
+71 get 3
+50 put 649 1
+40 put 107 3
+24 put 332 2
+6 put 245 3
+41 put 190 2
+34 put 137 3
+48 put 599 3
+26 put 5 1
+55 put 560 2
+67 put 65 3
+43 put 3 3
+93 put 458 3
+40 put 687 2
+18 put 318 2
+79 put 264 3
+89 put 764 3
+47 put 923 1
+64 put 357 3
+81 put 260 3
+53 put 157 2
+45 put 63 1
+65 put 545 3
+1 put 963 1
+48 put 396 1
+27 put 3 2
+74 put 718 3
+5 put 760 3
+100 put 908 3
+83 put 196 1
+89 put 448 3
+76 put 961 3
+81 put 941 3
+61 put 45 1
+54 put 832 2
+49 put 688 1
+93 put 213 3
+1 put 318 2
+95 put 539 3
+75 put 764 1
+17 put 291 2
+6 put 377 2
+35 put 271 2
+29 put 277 3
+50 put 650 1
+58 put 438 1
+88 put 482 1
+94 put 903 1
+70 put 301 3
+58 put 36 3
+15 put 232 1
+1 put 311 1
+18 put 220 1
+2 put 359 3
+29 put 841 1
+51 put 306 3
+50 get 1
+35 get 3
+25 get 3
+28 get 3
+8 get 2
+6 get 3
+29 get 3
+9 get 3
+98 get 2
+98 get 3
+12 get 2
+38 get 2
+42 get 2
+91 get 3
+45 get 3
+77 get 3
+79 get 1
+75 get 1
+34 get 1
+10 get 3
+80 get 1
+20 get 3
+9 get 1
+88 get 1
+1 get 1
+71 get 3
+34 get 3
+45 get 1
+18 get 1
+87 get 3
+93 get 3
+12 get 1
+26 get 1
+54 get 3
+1 get 1
+49 get 1
+78 get 2
+62 get 3
+90 get 1
+94 get 1
+58 get 1
+41 get 1
+15 get 1
+93 get 2
+22 get 3
+14 get 3
+90 get 1
+49 get 3
+26 get 2
+75 get 1
+85 get 2
+43 get 1
+24 get 3
+13 get 3
+52 get 3
+3 get 2
+67 get 3
+83 put 503 1
+17 put 855 2
+26 put 920 2
+10 put 790 3
+66 put 545 1
+66 put 572 2
+69 put 89 3
+31 put 417 2
+49 put 972 1
+67 put 788 2
+9 put 6 3
+23 put 250 3
+32 put 529 1
+18 put 814 1
+23 put 705 3
+35 put 707 3
+25 put 417 2
+65 put 686 1
+49 put 55 1
+98 put 364 3
+91 put 405 1
+39 put 23 1
+41 put 212 2
+17 put 569 1
+16 put 810 3
+42 put 885 1
+26 put 968 2
+16 put 983 1
+65 put 31 3
+2 put 855 3
+94 put 971 1
+52 put 51 2
+21 put 427 2
+95 put 463 3
+37 put 835 2
+39 put 152 2
+16 put 434 3
+10 put 439 3
+24 put 574 3
+3 put 554 2
+5 put 671 1
+52 get 3
+68 get 3
+24 get 3
+63 get 2
+94 get 2
+34 get 1
+36 get 2
+27 get 3
+29 get 2
+42 get 2
+38 get 2
+42 get 3
+30 get 1
+16 get 1
+94 get 1
+20 get 2
+3 get 2
+16 get 3
+46 get 1
+30 get 1
+38 get 3
+85 get 3
+83 get 2
+30 get 3
+58 get 3
+28 get 1
+4 get 2
+37 get 1
+27 get 2
+56 get 2
+22 get 2
+8 get 3
+77 get 3
+40 get 2
+6 get 2
+59 get 1
+3 get 1
+45 get 1
+99 get 3
+55 get 2
+13 get 3
+94 get 3
+41 get 1
+67 get 2
+16 put 882 1
+14 put 747 3
+42 put 293 3
+41 put 850 3
+38 put 261 1
+95 put 105 2
+56 put 910 3
+54 put 602 1
+21 put 936 2
+25 put 289 1
+25 put 744 3
+54 put 843 1
+19 put 116 3
+99 put 229 1
+17 put 265 1
+72 put 890 3
+90 put 50 1
+34 put 480 3
+37 put 487 1
+16 put 195 3
+83 put 965 2
+17 put 734 2
+53 put 431 1
+70 put 330 2
+72 put 140 2
+97 put 417 3
+45 put 819 1
+93 put 595 2
+14 put 34 2
+81 get 3
+90 get 2
+98 get 1
+54 get 2
+25 get 1
+62 get 3
+71 get 1
+40 get 3
+77 get 3
+8 get 3
+80 get 1
+59 get 3
+78 get 2
+57 get 3
+74 get 3
+75 get 1
+79 get 3
+64 get 3
+72 get 3
+16 get 3
+100 get 2
+95 get 1
+47 get 1
+70 get 2
+56 get 1
+33 get 3
+20 get 3
+36 get 1
+75 get 1
+34 get 3
+1 get 3
+94 get 1
+17 get 2
+56 get 2
+75 get 2
+95 get 1
+26 get 1
+24 get 3
+100 get 1
+61 get 1
+75 get 3
+22 get 2
+56 get 3
+51 get 2
+82 get 1
+71 get 1
+26 get 1
+37 get 2
+14 get 1
+84 get 3
+25 get 1
+60 get 3
+48 get 1
+83 get 2
+88 get 3
+22 get 1
+55 put 848 2
+4 put 906 1
+53 put 872 3
+86 put 477 2
+8 put 119 3
+74 put 691 1
+37 put 891 3
+13 put 975 2
+76 put 396 1
+15 put 314 2
+51 put 597 1
+45 put 438 3
+31 put 601 1
+11 put 573 1
+66 put 213 1
+92 put 885 3
+63 put 292 2
+67 put 284 2
+82 put 384 1
+10 put 545 1
+68 put 303 2
+92 put 801 1
+47 put 177 2
+27 put 360 1
+47 put 932 1
+20 put 445 2
+83 put 432 1
+48 put 438 3
+38 get 1
+54 get 3
+80 get 1
+45 get 1
+97 get 3
+44 get 3
+25 get 2
+21 get 1
+8 get 2
+10 get 2
+76 get 1
+93 get 2
+58 get 2
+100 get 3
+82 get 2
+94 get 1
+11 get 2
+52 get 1
+61 get 1
+18 get 1
+86 get 3
+35 get 1
+73 get 2
+82 get 1
+65 get 3
+22 get 2
+7 get 1
+28 get 1
+45 get 1
+48 get 2
+50 get 2
+99 get 3
+99 get 3
+52 get 1
+56 get 1
+72 get 3
+7 get 2
+83 get 2
+25 get 2
+93 get 1
+76 get 2
+7 get 1
+98 get 1
+97 get 1
+91 get 1
+52 get 2
+62 get 2
+18 get 1
+13 get 1
+97 get 3
+86 get 1
+14 get 2
+48 get 2
+81 get 3
+39 get 1
+32 get 2
+6 get 1
+48 get 2
+61 get 1
+76 put 455 2
+75 put 162 1
+36 put 402 3
+51 put 966 1
+80 put 123 1
+5 put 290 2
+59 put 334 1
+20 put 276 3
+27 put 752 1
+9 put 276 1
+96 put 771 2
+85 put 500 2
+77 put 39 1
+20 put 124 1
+20 put 807 3
+11 put 286 2
+94 put 226 2
+58 put 929 3
+30 put 938 2
+76 put 748 2
+57 put 212 2
+76 put 161 2
+64 put 931 1
+28 put 22 3
+21 put 468 1
+84 put 554 1
+96 put 766 1
+13 put 293 2
+6 put 419 2
+69 get 1
+2 get 3
+98 get 3
+97 get 1
+60 get 1
+21 get 1
+65 get 1
+31 get 3
+89 get 1
+85 get 3
+74 get 1
+17 get 1
+56 get 2
+96 get 1
+80 get 3
+80 get 1
+68 get 2
+13 get 2
+31 get 3
+95 get 3
+19 get 2
+11 get 1
+100 get 1
+61 get 3
+33 get 3
+26 get 1
+35 get 1
+4 put 640 1
+89 put 771 3
+25 put 585 1
+13 put 593 2
+97 put 624 3
+90 put 888 2
+97 put 145 2
+7 put 681 1
+78 put 373 1
+65 put 399 1
+27 put 322 3
+72 put 982 2
+94 put 926 3
+21 put 397 2
+95 put 442 2
+9 put 685 2
+91 put 42 2
+2 put 140 3
+94 put 643 2
+92 put 852 2
+36 put 998 2
+64 put 997 3
+99 put 244 1
+53 put 603 3
+19 put 522 3
+43 put 516 3
+30 put 731 2
+26 put 775 2
+55 put 949 2
+84 put 909 3
+91 put 689 2
+1 put 993 1
+94 put 917 3
+85 put 316 3
+95 put 946 1
+43 put 271 1
+36 put 246 3
+19 put 242 3
+38 put 79 2
+42 put 737 3
+28 put 749 2
+100 put 299 1
+25 put 906 2
+100 put 804 2
+27 put 841 2
+20 put 652 3
+67 put 750 1
+83 put 307 2
+14 put 494 3
+60 put 369 3
+16 put 968 3
+42 put 82 2
+33 put 694 1
+95 put 484 1
+73 put 550 2
+21 put 837 3
+47 put 62 3
+58 get 1
+80 get 2
+28 get 3
+19 get 3
+69 get 2
+49 get 2
+76 get 2
+88 get 2
+25 get 1
+25 get 2
+5 get 2
+65 get 2
+59 get 2
+27 get 1
+38 get 1
+46 get 3
+95 get 1
+15 get 2
+51 get 2
+68 get 3
+100 get 2
+90 get 2
+53 get 1
+26 get 2
+42 get 3
+31 get 2
+50 get 1
+74 get 1
+28 get 3
+16 get 3
+77 get 3
+4 get 2
+71 get 2
+55 get 3
+83 get 1
+45 get 3
+31 get 3
+100 get 3
+90 get 3
+78 get 3
+87 get 2
+27 get 2
+93 put 683 3
+18 put 167 1
+34 put 558 1
+11 put 288 1
+24 put 57 2
+12 put 80 1
+86 put 613 1
+100 put 84 2
+61 put 604 2
+56 put 225 3
+42 put 243 1
+33 put 930 2
+72 put 199 3
+34 put 734 2
+36 put 66 1
+25 put 423 2
+92 put 355 2
+52 put 63 1
+26 put 848 2
+56 put 275 3
+54 put 532 3
+14 put 451 2
+76 get 3
+71 get 1
+31 get 2
+12 get 3
+41 get 3
+49 get 1
+24 get 1
+29 get 2
+40 get 2
+77 get 2
+82 get 2
+86 get 3
+46 get 3
+9 get 2
+84 get 1
+83 get 2
+99 get 2
+76 get 3
+69 get 2
+61 get 3
+13 get 2
+25 get 1
+54 get 2
+29 get 3
+38 get 3
+2 get 2
+91 get 2
+3 get 3
+76 get 1
+29 get 1
+43 get 1
+74 get 2
+89 get 3
+75 get 2
+38 get 1
+100 get 1
+30 get 3
+65 get 2
+93 get 3
+11 get 1
+92 get 1
+49 put 168 3
+12 put 699 1
+72 put 538 1
+89 put 68 2
+95 put 232 3
+52 put 232 2
+26 put 402 2
+72 put 321 1
+28 put 849 2
+88 put 848 3
+44 put 387 1
+78 put 90 3
+75 put 512 2
+68 put 149 2
+53 put 40 2
+16 put 989 1
+38 put 207 2
+68 put 449 1
+52 put 89 2
+64 put 840 3
+13 put 652 3
+63 put 171 1
+56 put 963 2
+86 put 662 1
+9 put 636 2
+36 put 423 2
+44 put 301 3
+42 put 668 1
+33 put 672 3
+57 put 978 3
+62 put 961 1
+94 put 779 1
+78 put 606 2
+60 put 635 1
+3 put 28 3
+17 put 143 1
+68 put 798 3
+78 put 869 2
+92 put 354 1
+39 put 406 3
+87 get 3
+18 get 1
+1 get 2
+5 get 2
+20 get 1
+85 get 1
+19 get 3
+69 get 3
+14 get 2
+12 get 2
+12 get 1
+66 get 1
+96 get 3
+31 get 2
+91 get 3
+35 get 2
+47 get 1
+63 get 3
+6 get 3
+20 get 2
+72 get 1
+63 get 1
+64 get 1
+6 get 3
+60 get 3
+74 get 1
+2 get 2
+17 get 1
+55 get 3
+11 get 3
+84 get 3
+1 get 2
+44 get 1
+74 get 1
+24 get 2
+14 get 3
+28 get 2
+6 get 3
+88 get 1
+92 get 1
+70 get 1
+87 get 2
+76 get 2
+79 get 1
+85 get 2
+6 get 3
+86 get 2
+87 get 1
+9 get 3
+80 get 1
+70 get 2
+60 get 1
+56 get 2
+68 get 1
+71 put 502 3
+85 put 922 1
+9 put 4 1
+90 put 284 3
+23 put 877 3
+44 put 620 3
+73 put 116 2
+49 put 962 2
+89 put 871 1
+96 put 126 3
+94 put 246 1
+89 put 259 1
+46 put 988 2
+1 put 890 1
+32 put 811 1
+88 put 508 3
+28 put 92 3
+42 put 440 1
+84 put 728 2
+78 put 92 3
+8 put 745 3
+10 put 615 2
+54 put 260 3
+37 put 863 1
+50 put 246 1
+88 put 670 3
+35 put 375 1
+49 put 250 1
+1 put 583 1
+37 put 668 1
+59 put 214 3
+2 put 512 1
+75 put 38 2
+63 put 398 1
+5 put 382 2
+37 put 731 1
+67 put 661 3
+28 put 55 3
+29 put 667 2
+22 put 198 3
+35 put 76 1
+53 put 26 2
+100 put 116 1
+66 put 438 3
+89 put 937 1
+32 put 547 1
+62 put 567 1
+77 put 777 3
+21 put 167 3
+16 put 612 3
+6 put 108 3
+2 get 2
+31 get 2
+16 get 1
+40 get 3
+1 get 1
+60 get 3
+8 get 2
+38 get 1
+14 get 2
+20 get 2
+29 get 2
+94 get 3
+17 get 3
+24 get 3
+34 get 1
+59 get 2
+78 get 3
+45 get 2
+91 get 1
+82 get 3
+36 get 3
+84 get 3
+31 get 2
+23 get 1
+7 get 2
+13 get 3
+35 get 3
+30 get 1
+67 get 2
+60 get 3
+47 get 1
+96 get 2
+50 get 1
+45 get 3
+60 get 1
+74 get 1
+29 get 3
+5 get 1
+35 get 3
+48 get 2
+89 get 1
+46 put 615 2
+70 put 931 3
+26 put 735 1
+58 put 488 1
+6 put 344 1
+73 put 0 2
+37 put 71 3
+87 put 422 1
+3 put 796 1
+30 put 349 1
+49 put 374 1
+98 put 516 2
+93 put 708 2
+68 put 387 2
+82 put 609 2
+78 put 444 1
+30 put 924 1
+20 put 935 2
+65 put 3 3
+20 put 85 3
+86 put 955 2
+75 put 738 1
+96 put 534 3
+18 put 983 1
+93 put 545 1
+61 put 782 1
+6 put 742 1
+96 put 28 2
+90 put 482 3
+48 put 278 1
+5 put 481 3
+59 put 74 1
+94 put 347 1
+7 put 166 1
+75 put 991 3
+2 put 854 1
+48 put 567 3
+34 put 178 3
+45 put 762 1
+8 put 4 2
+44 put 989 2
+34 put 794 2
+14 put 522 2
+33 put 513 3
+14 put 745 1
+10 put 578 1
+1 put 104 2
+56 put 858 1
+73 put 812 2
+32 put 776 2
+19 put 92 1
+70 put 758 3
+18 put 586 1
+50 get 3
+77 get 1
+35 get 2
+88 get 2
+30 get 2
+69 get 3
+14 get 1
+58 get 2
+35 get 2
+39 get 1
+54 get 3
+94 get 1
+71 get 2
+22 get 1
+9 get 3
+6 get 1
+95 get 2
+51 get 1
+13 get 2
+67 get 3
+71 get 3
+23 get 1
+74 get 2
+16 get 3
+68 get 1
+80 get 3
+59 get 1
+73 get 3
+85 get 3
+88 get 2
+56 get 3
+74 get 2
+3 get 3
+95 get 3
+48 get 2
+4 get 3
+74 get 1
+42 get 1
+20 get 2
+6 get 1
+67 get 3
+8 get 1
+53 get 1
+35 put 69 2
+99 put 210 2
+59 put 281 2
+15 put 948 3
+13 put 561 1
+39 put 773 3
+31 put 489 1
+36 put 550 2
+54 put 14 2
+55 put 130 2
+22 put 452 2
+10 put 679 2
+65 put 246 1
+99 put 139 2
+41 put 689 3
+77 put 254 2
+29 put 153 1
+21 put 145 1
+97 put 533 1
+79 put 626 2
+3 put 932 2
+4 put 200 3
+42 get 3
+74 get 2
+70 get 2
+9 get 2
+4 get 1
+82 get 1
+63 get 1
+60 get 2
+5 get 1
+85 get 3
+4 get 1
+16 get 1
+1 get 1
+65 get 2
+13 get 2
+66 get 3
+25 get 2
+86 get 2
+18 get 2
+44 get 3
+57 get 3
+79 get 2
+12 get 1
+61 get 1
+28 get 1
+20 get 3
+9 get 3
+50 get 1
+41 get 1
+47 get 3
+62 get 3
+20 get 2
+32 get 2
+53 get 2
+30 get 1
+11 get 3
+27 get 3
+31 get 2
+84 get 3
+56 get 1
+45 get 3
+71 get 2
+18 get 3
+4 get 3
+5 get 1
+17 get 2
+14 get 3
+88 get 1
+52 get 2
+60 get 3
+3 get 3
+45 get 2
+88 get 3
+95 get 3
+1 get 1
+97 get 1
+1 get 1
+40 get 2
+54 get 3
+68 put 328 1
+48 put 824 2
+26 put 31 3
+63 put 909 3
+53 put 157 1
+60 put 263 1
+45 put 678 1
+98 put 545 2
+46 put 852 3
+48 put 188 2
+84 put 79 3
+5 put 323 1
+68 put 521 1
+1 put 183 3
+4 put 640 1
+93 put 329 1
+81 put 438 3
+53 put 460 3
+58 put 407 3
+64 put 39 3
+26 put 518 2
+98 put 92 1
+51 put 575 3
+84 put 571 3
+29 put 499 1
+79 put 265 2
+79 put 289 3
+70 put 698 1
+2 put 419 2
+84 put 149 1
+66 put 476 1
+99 put 353 2
+67 put 963 3
+65 put 616 1
+80 put 72 3
+6 put 51 2
+20 put 340 1
+64 put 917 2
+90 put 893 3
+24 put 387 3
+38 put 369 3
+84 put 599 2
+43 put 745 2
+33 put 422 2
+99 put 858 3
+52 put 613 3
+17 put 447 3
+65 put 103 2
+26 put 90 3
+67 put 703 3
+87 get 1
+63 get 1
+26 get 3
+60 get 2
+62 get 1
+40 get 2
+35 get 1
+11 get 3
+33 get 3
+32 get 3
+68 get 2
+49 get 3
+40 get 2
+100 get 1
+77 get 1
+19 get 3
+98 get 3
+5 get 3
+9 get 2
+16 get 1
+1 get 1
+86 get 1
+45 get 2
+74 get 2
+53 get 3
+30 get 3
+57 get 1
+41 get 1
+65 get 3
+32 get 2
+55 get 2
+41 get 3
+56 get 3
+94 get 3
+38 get 2
+25 get 1
+11 get 2
+40 get 1
+28 get 2
+27 put 73 3
+40 put 964 3
+90 put 340 2
+47 put 758 2
+69 put 648 2
+66 put 577 3
+66 put 187 3
+39 put 634 3
+21 put 153 3
+84 put 18 2
+54 put 23 1
+39 put 824 1
+31 put 273 1
+91 put 603 2
+28 put 811 1
+98 put 83 3
+55 put 875 3
+16 put 515 1
+2 put 366 1
+19 put 896 2
+54 put 684 3
+14 put 611 2
+99 put 535 3
+5 put 956 2
+93 put 897 3
+14 put 162 2
+93 put 385 3
+16 put 756 1
+67 put 270 1
+69 put 741 1
+67 put 443 1
+23 put 461 3
+50 put 457 2
+88 get 1
+37 get 3
+58 get 1
+41 get 3
+62 get 3
+93 get 1
+6 get 2
+23 get 1
+76 get 1
+50 get 2
+79 get 2
+92 get 2
+4 get 1
+95 get 2
+77 get 3
+55 get 2
+53 get 3
+63 get 1
+91 get 2
+18 get 3
+62 get 3
+78 get 2
+68 get 3
+81 get 1
+27 get 1
+53 get 1
+77 get 1
+12 get 2
+3 get 1
+12 get 2
+14 get 1
+19 get 3
+55 get 2
+33 get 3
+16 get 1
+28 get 3
+7 get 1
+31 get 2
+48 get 1
+71 get 2
+63 get 3
+94 get 2
+23 get 1
+85 get 3
+16 get 3
+26 get 1
+98 get 2
+44 get 2
+39 get 3
+46 get 2
+29 get 1
+67 get 3
+16 get 2
+94 get 2
+80 get 1
+61 get 2
+4 get 1
+14 get 2
+53 get 2
+100 put 2 2
+53 put 737 2
+62 put 904 2
+50 put 947 3
+68 put 583 3
+69 put 846 2
+23 put 449 2
+38 put 825 2
+30 put 956 3
+8 put 115 2
+76 put 65 3
+35 put 43 3
+95 put 30 2
+97 put 897 3
+43 put 957 2
+36 put 902 2
+61 put 632 3
+67 put 225 2
+34 put 297 1
+91 put 71 2
+92 put 282 1
+37 put 784 2
+32 put 856 1
+100 put 900 2
+10 put 332 3
+45 put 69 2
+54 put 912 3
+30 put 222 1
+63 put 65 2
+18 put 39 1
+15 put 461 1
+41 put 379 2
+92 put 877 3
+52 put 667 1
+40 put 679 2
+82 put 297 2
+73 put 613 3
+35 put 481 3
+89 put 50 1
+7 put 751 2
+73 put 754 3
+76 put 62 1
+16 put 73 2
+100 put 141 2
+47 put 290 2
+28 put 413 1
+28 put 359 2
+12 put 779 2
+79 put 627 3
+31 put 695 1
+2 put 907 3
+14 put 750 1
+59 put 461 1
+68 put 315 2
+73 put 46 1
+75 put 47 2
+36 put 307 3
+31 put 407 3
+100 put 459 3
+43 get 1
+23 get 3
+56 get 2
+29 get 1
+68 get 3
+3 get 3
+40 get 3
+99 get 1
+52 get 1
+4 get 2
+46 get 1
+96 get 1
+78 get 1
+59 get 2
+5 get 2
+79 get 2
+54 get 2
+16 get 1
+16 get 3
+80 get 3
+81 get 2
+96 get 1
+28 get 2
+20 get 1
+49 get 2
+50 get 1
+86 get 2
+98 put 29 2
+16 put 886 1
+74 put 630 2
+10 put 150 3
+13 put 356 2
+46 put 619 3
+77 put 459 1
+9 put 371 3
+79 put 582 1
+85 put 8 3
+52 put 605 2
+47 put 98 1
+44 put 143 3
+51 put 651 3
+70 put 306 1
+41 put 610 1
+46 put 772 3
+95 put 887 1
+82 put 142 3
+95 put 327 1
+74 put 66 2
+22 put 415 3
+79 put 76 2
+84 put 419 2
+45 put 727 1
+100 put 440 1
+35 put 464 1
+2 put 649 3
+95 put 492 3
+45 put 242 2
+26 put 815 3
+62 put 215 2
+53 put 944 2
+49 put 823 1
+74 put 339 2
+78 put 770 2
+23 put 204 3
+51 get 2
+21 get 2
+73 get 3
+42 get 3
+87 get 1
+40 get 3
+4 get 1
+73 get 3
+13 get 2
+51 get 1
+67 get 3
+23 get 2
+83 get 3
+80 get 1
+58 get 3
+91 get 2
+51 get 3
+11 get 3
+47 get 2
+1 get 3
+99 get 3
+40 get 3
+54 get 1
+28 get 1
+73 get 2
+53 get 3
+66 get 2
+99 get 3
+5 get 2
+94 get 2
+20 get 1
+83 get 2
+48 get 3
+52 put 601 3
+80 put 4 1
+20 put 58 2
+57 put 516 3
+59 put 617 1
+15 put 649 1
+52 put 833 3
+15 put 968 1
+24 put 936 1
+50 put 907 2
+30 put 902 2
+74 put 229 3
+25 put 101 1
+48 put 929 1
+50 put 58 1
+91 put 421 3
+70 put 785 3
+7 put 411 3
+68 put 298 1
+94 put 497 2
+96 put 522 2
+22 put 539 1
+99 put 174 3
+53 put 707 3
+2 put 101 2
+32 put 408 1
+96 put 560 1
+87 put 409 3
+10 put 49 1
+78 put 300 3
+1 put 36 3
+8 put 269 1
+18 put 370 2
+14 put 190 3
+44 put 786 2
+97 put 817 2
+47 put 247 1
+43 put 579 1
+96 put 148 2
+37 put 103 1
+74 put 209 1
+26 put 14 2
+32 put 261 2
+10 put 302 1
+66 put 672 2
+77 put 534 3
+57 put 127 2
+47 put 985 2
+29 put 659 1
+18 get 2
+86 get 1
+43 get 1
+15 get 2
+98 get 2
+14 get 1
+70 get 3
+5 get 3
+42 get 1
+43 get 2
+68 get 1
+76 get 3
+40 get 1
+79 get 3
+89 get 1
+77 get 1
+15 get 1
+6 get 3
+93 get 1
+99 get 3
+33 put 538 3
+24 put 615 2
+94 put 988 1
+74 put 734 1
+27 put 53 2
+39 put 850 3
+84 put 863 3
+64 put 482 1
+92 put 917 1
+8 put 921 1
+15 put 246 2
+13 put 904 1
+9 put 878 3
+68 put 688 2
+13 put 6 3
+26 put 510 1
+87 put 322 2
+31 put 203 1
+74 put 142 3
+94 put 99 2
+93 put 887 3
+46 put 334 1
+67 put 241 1
+50 put 959 1
+10 put 237 3
+7 put 862 2
+35 put 118 1
+28 put 850 3
+84 put 826 1
+92 put 202 1
+94 put 218 1
+88 put 622 1
+8 put 848 3
+93 put 314 3
+77 put 220 2
+35 put 779 2
+9 put 775 2
+54 put 841 3
+69 put 822 2
+77 put 326 1
+45 put 679 3
+41 put 490 2
+73 put 588 2
+33 put 398 3
+58 put 477 1
+92 put 765 3
+26 put 749 1
+37 put 93 2
+30 put 166 2
+8 put 821 2
+5 put 903 1
+19 get 1
+79 get 3
+82 get 2
+23 get 3
+79 get 1
+38 get 3
+9 get 1
+10 get 3
+11 get 1
+94 get 1
+19 get 2
+25 get 1
+4 get 1
+68 get 2
+37 get 3
+49 get 2
+15 get 2
+11 get 2
+65 get 1
+49 get 1
+35 get 1
+45 get 3
+67 get 3
+95 get 3
+59 get 3
+30 get 2
+29 get 1
+8 get 1
+10 get 1
+34 get 1
+55 get 3
+96 get 1
+24 get 2
+86 get 3
+96 get 3
+77 get 2
+91 get 2
+69 get 2
+26 get 2
+59 get 2
+55 get 1
+62 get 1
+92 get 1
+77 get 1
+32 get 1
+31 get 2
+26 get 3
+48 get 1
+52 get 3
+9 put 799 3
+26 put 460 2
+50 put 632 1
+31 put 629 3
+60 put 9 3
+46 put 235 3
+66 put 324 2
+57 put 483 2
+6 put 386 3
+92 put 103 1
+33 put 348 2
+23 put 870 2
+79 put 790 2
+94 put 937 3
+68 put 620 3
+75 put 662 1
+11 put 142 2
+13 put 30 1
+30 put 568 3
+47 put 286 3
+48 put 640 2
+44 put 49 1
+33 put 321 3
+66 put 369 2
+96 put 388 3
+43 put 857 1
+91 put 707 3
+44 put 999 3
+37 put 79 1
+9 put 643 3
+69 put 531 1
+74 put 357 1
+85 put 101 1
+79 put 565 1
+97 put 614 2
+78 put 959 2
+15 put 943 1
+35 put 888 2
+50 put 500 2
+8 put 731 1
+3 put 293 1
+37 get 2
+11 get 2
+84 get 2
+98 get 1
+7 get 1
+47 get 2
+89 get 2
+85 get 3
+35 get 2
+69 get 2
+71 get 1
+74 get 3
+89 get 2
+58 get 2
+34 get 2
+66 get 3
+37 get 1
+75 get 3
+80 get 2
+43 get 1
+72 get 3
+65 get 3
+72 get 2
+20 get 1
+54 get 2
+4 get 1
+14 get 3
+22 get 2
+75 get 1
+42 get 3
+60 get 3
+12 get 3
+12 get 3
+90 get 3
+88 get 3
+46 get 3
+98 get 1
+6 get 3
+94 get 2
+7 get 2
+6 get 1
+39 get 3
+71 get 1
+7 get 1
+96 get 1
+76 get 1
+7 get 2
+26 get 3
+83 get 2
+42 get 2
+4 get 1
+43 get 3
+30 get 1
+47 get 3
+35 get 3
+7 get 2
+56 put 532 3
+38 put 698 1
+6 put 724 2
+36 put 289 1
+80 put 414 2
+68 put 888 2
+90 put 110 2
+48 put 665 3
+98 put 515 1
+3 put 166 1
+8 put 323 3
+5 put 260 3
+60 put 742 3
+92 put 602 2
+60 put 646 2
+10 put 521 3
+63 put 830 3
+21 put 95 3
+87 put 754 1
+76 put 297 2
+90 put 853 3
+65 put 595 3
+39 put 431 1
+52 put 607 2
+85 put 621 3
+89 put 155 2
+4 put 697 3
+76 put 93 2
+85 get 1
+63 get 2
+46 get 1
+34 get 3
+61 get 2
+55 get 1
+99 get 2
+29 get 1
+25 get 3
+30 get 3
+47 get 3
+32 get 1
+40 get 3
+53 get 1
+16 get 1
+33 get 2
+33 get 1
+43 get 2
+75 get 3
+48 get 1
+40 get 2
+23 get 2
+70 get 2
+77 get 2
+26 get 3
+43 get 1
+15 get 1
+29 get 3
+95 get 1
+86 get 2
+71 get 1
+95 get 1
+26 get 3
+72 get 1
+69 get 1
+66 get 1
+7 get 3
+87 get 3
+60 get 2
+95 get 2
+57 get 2
+9 get 2
+28 get 2
+91 get 3
+95 get 2
+17 get 1
+89 put 638 3
+68 put 356 3
+22 put 859 3
+35 put 431 1
+98 put 391 3
+28 put 623 1
+21 put 389 1
+53 put 733 2
+44 put 327 2
+8 put 614 1
+62 put 493 2
+88 put 902 1
+80 put 839 2
+65 put 429 1
+73 put 758 2
+100 put 560 3
+80 put 174 3
+63 put 683 1
+37 put 687 3
+30 put 655 2
+76 put 25 1
+12 put 796 2
+25 put 398 3
+16 put 868 1
+21 put 48 1
+50 put 505 2
+45 put 121 1
+78 put 326 2
+30 put 629 3
+31 put 363 1
+54 put 738 2
+51 put 912 2
+43 put 586 3
+47 put 712 3
+40 put 358 3
+39 get 1
+15 get 3
+90 get 2
+94 get 2
+12 get 1
+88 get 3
+23 get 1
+56 get 1
+49 get 2
+8 get 1
+85 get 2
+59 get 2
+64 get 3
+50 get 3
+70 get 3
+73 get 3
+55 get 2
+20 get 1
+31 get 2
+47 get 1
+41 get 3
+65 get 3
+54 get 3
+10 get 1
+93 get 1
+15 get 2
+63 get 1
+17 get 2
+13 get 3
+19 get 3
+14 get 1
+97 get 3
+3 get 3
+64 get 1
+67 get 2
+31 get 3
+75 get 2
+11 get 3
+11 get 3
+8 get 1
+43 get 2
+48 get 1
+79 get 2
+26 get 3
+40 get 1
+2 put 472 1
+61 put 762 1
+16 put 614 1
+74 put 594 2
+44 put 21 3
+76 put 128 1
+93 put 734 1
+22 put 557 2
+42 put 173 2
+52 put 931 2
+94 put 768 2
+19 put 822 1
+47 put 970 3
+32 put 455 3
+39 put 137 3
+69 put 205 1
+98 put 843 1
+22 put 401 1
+58 put 388 3
+95 put 313 3
+9 put 927 2
+91 put 68 1
+46 put 58 1
+80 get 3
+59 get 3
+86 get 2
+75 get 2
+48 get 1
+4 get 2
+96 get 1
+88 get 2
+39 get 3
+31 get 2
+43 get 2
+54 get 1
+46 get 1
+43 get 1
+97 get 2
+75 get 2
+35 get 2
+43 get 2
+56 get 1
+66 get 1
+5 put 531 3
+50 put 150 1
+10 put 140 3
+85 put 325 3
+59 put 721 1
+96 put 946 1
+96 put 944 1
+74 put 25 3
+63 put 972 2
+71 put 511 1
+70 put 970 3
+38 put 535 2
+95 put 846 1
+19 put 583 2
+30 put 158 1
+95 put 906 1
+18 put 936 3
+62 put 295 2
+10 put 384 3
+32 put 166 2
+35 put 322 1
+5 put 55 2
+98 put 585 1
+45 put 786 3
+13 put 585 1
+60 put 411 1
+33 put 102 2
+40 put 742 1
+7 put 212 3
+19 put 466 3
+1 put 944 2
+44 put 453 1
+27 put 661 2
+46 put 115 3
+31 put 318 3
+76 put 185 2
+31 put 620 3
+52 put 15 3
+15 put 879 3
+80 put 839 3
+77 put 79 3
+37 put 791 2
+9 put 660 1
+12 put 86 1
+80 put 429 1
+94 put 915 2
+21 put 714 3
+30 put 449 2
+63 put 458 1
+38 put 660 2
+93 get 1
+90 get 1
+43 get 1
+91 get 3
+71 get 1
+50 get 2
+13 get 1
+6 get 3
+54 get 1
+89 get 2
+47 get 3
+97 get 3
+21 get 3
+50 get 2
+63 get 1
+28 get 1
+78 get 3
+5 get 2
+40 get 1
+36 get 1
+44 get 1
+87 get 1
+66 get 3
+4 get 2
+88 get 2
+30 get 1
+58 get 1
+57 get 2
+60 get 3
+96 get 2
+39 get 2
+41 get 1
+64 get 1
+53 get 2
+45 get 3
+54 get 2
+51 get 2
+75 get 2
+9 get 3
+40 get 3
+10 get 2
+82 get 3
+14 get 1
+71 get 2
+72 get 2
+73 get 2
+56 get 3
+88 get 2
+74 get 3
+15 get 1
+14 get 1
+55 put 516 3
+85 put 611 1
+29 put 324 2
+55 put 833 3
+67 put 591 2
+56 put 250 3
+71 put 850 2
+26 put 653 1
+44 put 660 3
+63 put 416 3
+17 put 565 3
+71 put 429 2
+46 put 775 2
+68 put 616 2
+13 put 136 3
+43 put 616 1
+74 put 113 2
+15 put 78 2
+42 put 881 2
+76 put 176 1
+62 put 669 1
+42 put 594 2
+51 put 172 2
+86 put 677 1
+78 put 225 3
+98 put 921 3
+59 put 367 3
+36 put 712 1
+11 put 324 2
+71 put 983 1
+12 put 269 2
+28 put 852 2
+71 put 837 3
+27 put 401 1
+72 put 74 3
+78 put 208 2
+78 put 517 2
+70 get 3
+73 get 2
+66 get 3
+18 get 2
+94 get 3
+52 get 3
+78 get 2
+84 get 3
+96 get 2
+48 get 3
+14 get 2
+26 get 3
+38 get 3
+29 get 3
+30 get 1
+6 get 1
+58 get 3
+34 get 3
+21 get 1
+61 get 2
+19 get 2
+83 get 2
+48 get 3
+22 get 2
+83 get 3
+16 get 3
+86 get 3
+46 get 2
+64 get 3
+67 get 1
+19 get 1
+80 get 2
+31 get 1
+52 get 3
+23 get 2
+26 get 1
+86 get 3
+7 get 2
+54 get 2
+91 get 1
+10 get 1
+77 put 1 1
+24 put 653 2
+69 put 184 1
+72 put 252 2
+78 put 602 1
+31 put 455 3
+23 put 838 1
+79 put 420 1
+69 put 650 1
+60 put 921 3
+67 put 358 2
+15 put 807 2
+12 put 367 1
+89 put 861 2
+10 put 440 2
+9 put 337 1
+69 put 474 3
+36 put 238 1
+76 put 985 2
+73 put 689 1
+98 put 606 1
+5 put 432 2
+46 put 767 3
+83 put 229 1
+22 put 745 1
+50 put 113 1
+53 put 440 1
+32 put 892 2
+54 put 67 2
+24 put 734 1
+35 put 806 1
+18 put 210 1
+71 put 998 2
+99 put 59 2
+33 put 489 1
+61 put 561 3
+12 put 65 2
+84 put 154 3
+45 put 185 1
+46 put 723 1
+8 put 145 1
+3 get 3
+62 get 1
+15 get 1
+53 get 3
+90 get 1
+88 get 2
+10 get 3
+79 get 1
+26 get 2
+64 get 3
+96 get 3
+23 get 3
+10 get 1
+62 get 1
+64 get 3
+66 get 3
+45 get 1
+80 get 2
+88 get 2
+34 get 1
+26 get 3
+1 get 1
+90 get 1
+72 get 3
+19 get 2
+68 get 1
+92 get 3
+81 get 1
+58 get 2
+48 get 3
+62 get 3
+67 get 3
+66 get 3
+23 get 1
+27 get 3
+54 get 2
+30 get 2
+79 get 2
+53 get 3
+47 get 3
+50 get 3
+82 get 1
+97 get 3
+12 get 3
+2 get 3
+5 get 2
+51 get 3
+39 get 2
+33 put 346 2
+8 put 629 1
+12 put 490 2
+69 put 935 1
+51 put 423 3
+74 put 440 1
+41 put 115 2
+1 put 260 3
+99 put 365 1
+63 put 610 2
+45 put 831 1
+22 put 538 2
+47 put 929 2
+18 put 205 3
+42 put 588 3
+5 put 886 2
+62 put 339 1
+25 put 898 3
+2 put 221 2
+61 put 543 3
+85 put 34 1
+52 put 619 1
+41 get 2
+27 get 3
+19 get 3
+42 get 2
+71 get 3
+26 get 2
+53 get 1
+53 get 1
+67 get 3
+68 get 3
+98 get 1
+99 get 3
+7 get 3
+44 get 2
+50 get 1
+41 get 3
+67 get 3
+40 get 1
+26 get 1
+37 get 1
+61 get 3
+52 get 1
+100 get 2
+66 get 1
+89 get 1
+99 get 1
+95 get 1
+94 get 2
+75 get 1
+55 get 3
+94 get 1
+86 get 2
+33 get 3
+65 get 2
+18 put 428 1
+4 put 756 1
+93 put 585 3
+73 put 234 1
+78 put 723 3
+13 put 735 3
+93 put 823 2
+91 put 968 3
+2 put 863 2
+81 put 541 1
+19 put 694 2
+27 put 672 2
+81 put 271 3
+77 put 946 1
+11 put 84 1
+30 put 280 2
+35 put 398 3
+70 put 449 1
+5 put 496 1
+10 put 362 3
+87 put 482 1
+59 put 728 1
+74 put 403 1
+80 put 580 3
+24 put 600 3
+40 put 40 3
+33 put 580 1
+98 put 92 3
+3 put 347 2
+18 put 111 2
+46 put 958 1
+68 put 991 3
+17 put 598 3
+34 put 484 1
+27 put 597 2
+49 put 398 1
+29 put 241 1
+20 put 478 2
+63 put 999 2
+17 put 396 3
+62 put 753 1
+58 put 233 1
+6 put 886 2
+65 put 712 3
+90 put 463 2
+81 put 927 2
+93 put 529 3
+51 put 682 2
+22 put 418 3
+40 put 919 2
+82 put 323 3
+24 put 909 2
+83 put 231 1
+84 get 2
+67 get 2
+16 get 1
+14 get 3
+1 get 2
+94 get 1
+55 get 2
+81 get 1
+57 get 1
+33 get 2
+1 get 3
+92 get 3
+92 get 1
+60 get 1
+80 get 3
+94 get 2
+33 get 3
+92 get 1
+30 get 2
+88 get 2
+95 get 1
+39 get 2
+86 get 1
+26 get 1
+87 get 3
+32 get 2
+81 get 3
+1 get 1
+22 get 1
+65 get 2
+41 get 1
+100 get 2
+86 get 2
+8 get 2
+87 get 2
+85 get 3
+59 get 1
+60 get 1
+52 get 1
+76 get 2
+34 get 2
+18 get 3
+10 put 512 2
+5 put 344 1
+73 put 348 2
+77 put 26 3
+51 put 744 1
+93 put 966 2
+84 put 571 1
+37 put 994 3
+96 put 372 3
+48 put 768 3
+92 put 669 3
+21 put 537 1
+69 put 397 3
+93 put 310 1
+69 put 358 1
+57 put 339 3
+77 put 524 3
+64 put 490 1
+86 put 953 3
+18 put 315 3
+10 put 766 2
+77 put 614 2
+56 put 813 3
+67 put 208 3
+37 put 61 3
+28 put 669 3
+33 put 430 2
+38 put 236 1
+75 put 883 1
+43 put 133 3
+36 put 485 2
+71 put 963 2
+11 put 618 2
+5 put 110 2
+93 put 196 1
+8 put 960 3
+11 put 338 3
+83 put 506 3
+33 put 610 1
+95 put 738 1
+23 put 176 3
+53 put 196 2
+53 put 206 1
+67 put 613 2
+14 put 639 3
+22 put 182 1
+42 put 10 3
+83 put 957 2
+83 put 263 3
+89 put 739 3
+62 put 966 3
+62 put 678 2
+52 put 135 3
+68 put 852 2
+77 get 2
+95 get 3
+99 get 1
+88 get 2
+86 get 2
+9 get 1
+94 get 2
+87 get 2
+54 get 1
+5 get 3
+61 get 3
+2 get 1
+8 get 2
+57 get 3
+88 get 3
+94 get 1
+52 get 1
+55 get 2
+92 get 1
+42 get 2
+50 get 3
+58 get 3
+40 get 1
+31 get 3
+27 get 1
+85 get 3
+4 get 1
+47 get 3
+68 get 1
+73 get 1
+31 get 2
+76 get 2
+1 get 2
+82 get 2
+57 get 1
+58 get 3
+56 put 837 2
+27 put 866 1
+29 put 884 2
+59 put 933 2
+89 put 89 1
+84 put 692 2
+19 put 473 1
+86 put 133 1
+22 put 405 1
+65 put 712 2
+38 put 495 1
+52 put 472 1
+95 put 451 1
+47 put 608 3
+95 put 218 1
+12 put 438 2
+42 put 32 2
+42 put 825 2
+5 put 893 3
+42 put 990 2
+32 put 35 1
+54 put 923 1
+27 put 997 3
+19 put 183 3
+94 put 938 1
+24 put 246 1
+18 put 574 3
+14 put 518 1
+34 put 403 3
+25 put 975 2
+72 put 177 2
+60 put 255 3
+6 put 924 3
+20 put 297 1
+62 put 239 3
+52 put 889 1
+83 put 360 1
+71 put 47 3
+55 put 590 1
+65 put 761 2
+62 put 263 2
+36 put 990 2
+87 put 862 1
+69 put 872 3
+28 put 9 3
+14 put 600 3
+12 put 695 1
+66 put 768 3
+69 put 167 3
+34 get 2
+58 get 3
+78 get 2
+47 get 3
+46 get 3
+79 get 1
+54 get 3
+57 get 3
+68 get 2
+49 get 3
+85 get 1
+72 get 1
+86 get 3
+44 get 2
+77 get 3
+9 get 2
+51 get 2
+57 get 1
+65 get 3
+21 get 3
+38 get 2
+76 get 1
+13 get 3
+74 get 2
+1 get 2
+49 get 3
+5 get 2
+18 get 3
+64 get 1
+35 get 2
+55 get 2
+20 get 3
+57 get 2
+9 get 1
+83 get 1
+82 get 1
+76 get 1
+16 get 3
+77 get 2
+24 get 2
+66 get 3
+6 get 3
+67 get 3
+3 put 536 3
+46 put 287 2
+81 put 819 2
+28 put 940 2
+14 put 145 2
+2 put 386 3
+64 put 448 3
+6 put 424 1
+84 put 830 3
+67 put 924 1
+41 put 765 3
+54 put 659 3
+16 put 423 1
+47 put 434 1
+47 put 588 1
+6 put 594 3
+11 put 118 2
+70 put 475 2
+68 put 135 3
+58 put 416 2
+66 put 403 1
+82 put 224 2
+83 put 600 1
+85 put 732 3
+82 put 581 3
+63 put 47 1
+77 put 71 2
+87 put 600 1
+57 put 512 2
+7 put 535 3
+23 put 496 1
+26 put 557 2
+62 put 179 1
+19 put 381 3
+37 put 382 2
+100 put 970 2
+76 put 19 2
+96 put 484 3
+21 put 439 1
+46 put 371 2
+72 put 376 2
+33 put 282 2
+27 put 926 2
+26 put 263 1
+82 put 395 1
+1 put 367 2
+97 put 631 1
+47 put 994 2
+19 put 451 3
+31 put 761 2
+80 get 3
+61 get 3
+99 get 1
+43 get 1
+4 get 3
+43 get 1
+53 get 2
+54 get 2
+16 get 1
+82 get 1
+87 get 2
+89 get 2
+7 get 2
+58 get 3
+44 get 1
+74 get 3
+25 get 3
+74 get 2
+93 get 3
+47 get 1
+38 get 2
+11 get 2
+77 get 3
+69 get 3
+85 get 3
+82 get 2
+49 get 2
+72 get 3
+36 get 3
+55 get 1
+61 get 3
+66 get 3
+24 get 1
+23 get 3
+26 get 1
+44 get 2
+70 get 1
+70 get 1
+25 get 2
+32 get 2
+96 get 2
+78 get 1
+82 get 3
+41 get 3
+83 get 2
+43 put 965 1
+13 put 215 1
+40 put 254 2
+4 put 455 3
+52 put 652 2
+62 put 151 3
+47 put 660 2
+28 put 602 1
+92 put 833 2
+44 put 333 2
+39 put 404 2
+3 put 276 2
+28 put 129 1
+97 put 239 3
+97 put 73 3
+67 put 620 2
+69 put 589 1
+99 put 954 1
+85 put 134 3
+19 put 162 2
+61 put 678 1
+62 put 714 2
+72 put 131 1
+79 put 56 3
+61 put 154 2
+68 put 926 2
+39 put 782 1
+86 put 846 3
+38 get 2
+52 get 2
+68 get 2
+38 get 1
+19 get 1
+73 get 3
+6 get 2
+90 get 1
+82 get 3
+26 get 1
+75 get 3
+70 get 3
+62 get 1
+100 get 2
+70 get 3
+76 get 1
+18 get 2
+75 get 2
+10 get 1
+80 get 1
+82 get 1
+53 get 3
+22 get 2
+55 get 2
+88 get 2
+57 get 1
+10 get 1
+4 get 1
+61 get 3
+74 get 3
+9 get 3
+34 get 3
+62 get 2
+39 get 1
+4 get 2
+24 get 3
+84 get 1
+30 get 2
+55 get 3
+12 get 2
+81 get 1
+57 get 1
+48 get 1
+35 put 936 2
+55 put 121 1
+92 put 160 2
+97 put 325 1
+28 put 327 2
+43 put 365 2
+46 put 215 3
+68 put 28 1
+8 put 852 3
+86 put 528 2
+71 put 665 1
+82 put 620 2
+74 put 443 3
+88 put 204 2
+79 put 811 3
+20 put 932 2
+25 put 916 3
+68 put 828 1
+9 put 242 2
+6 put 968 2
+60 put 877 2
+6 put 957 2
+40 put 473 3
+85 put 19 2
+25 put 514 1
+47 put 918 3
+2 put 129 2
+63 put 611 2
+17 put 396 2
+22 put 113 2
+46 put 549 2
+25 put 434 2
+58 put 388 1
+59 put 419 1
+54 put 408 3
+57 get 1
+96 get 3
+48 get 3
+77 get 2
+68 get 3
+84 get 1
+67 get 1
+65 get 2
+16 get 3
+42 get 1
+1 get 2
+72 get 2
+47 get 1
+96 get 3
+36 get 2
+14 get 1
+50 get 3
+12 get 2
+62 get 2
+29 get 3
+31 get 1
+42 get 3
+91 get 3
+36 get 3
+49 get 1
+72 get 1
+35 get 3
+86 get 1
+38 get 1
+39 get 3
+100 get 2
+31 get 3
+67 get 1
+16 get 3
+16 get 2
+40 get 3
+68 get 3
+29 get 1
+61 get 3
+91 put 481 1
+65 put 129 2
+12 put 449 1
+67 put 315 3
+52 put 124 3
+100 put 71 3
+51 put 401 1
+95 put 34 3
+30 put 945 3
+43 put 832 2
+90 put 547 2
+84 put 442 1
+23 put 557 3
+37 put 322 3
+58 put 59 3
+37 put 519 1
+56 put 72 3
+100 put 341 2
+25 put 576 2
+7 put 931 2
+8 put 315 1
+16 put 316 1
+78 put 991 2
+90 put 875 2
+30 put 225 2
+62 put 75 1
+22 put 74 1
+72 put 294 2
+60 put 364 1
+3 put 64 1
+92 put 370 1
+69 put 0 2
+49 put 87 2
+25 put 181 3
+65 put 807 2
+88 put 923 2
+79 put 788 2
+43 put 282 3
+10 put 986 2
+46 put 607 2
+27 put 170 1
+57 put 895 1
+39 put 908 1
+96 put 776 3
+63 put 988 2
+39 put 975 1
+41 put 702 1
+33 put 661 3
+52 put 576 3
+48 put 922 2
+28 put 157 2
+7 put 73 1
+1 get 2
+75 get 1
+24 get 1
+91 get 3
+49 get 2
+21 get 2
+49 get 1
+1 get 3
+56 get 3
+98 get 1
+96 get 3
+97 get 2
+100 get 2
+33 get 2
+53 get 2
+57 get 3
+79 get 2
+97 get 2
+19 get 1
+77 get 1
+65 get 2
+41 get 3
+50 get 2
+68 get 3
+67 get 3
+50 get 3
+50 get 1
+52 get 3
+53 get 2
+2 get 2
+99 get 3
+80 get 2
+41 get 3
+71 get 2
+65 get 2
+61 get 1
+95 get 2
+69 get 2
+85 get 1
+2 get 2
+11 get 1
+29 get 3
+1 get 1
+13 get 1
+33 get 2
+11 get 1
+77 get 2
+96 get 2
+51 get 1
+83 get 2
+71 get 1
+36 get 3
+67 get 3
+68 get 1
+17 get 1
+18 get 3
+17 get 2
+58 get 3
+48 get 3
+83 put 169 3
+17 put 50 3
+92 put 847 3
+39 put 709 2
+73 put 212 2
+47 put 168 2
+83 put 162 2
+95 put 962 3
+39 put 748 1
+18 put 94 1
+27 put 93 1
+34 put 582 1
+69 put 778 1
+47 put 905 1
+62 put 769 2
+93 put 318 2
+14 put 969 1
+30 put 745 1
+4 put 953 3
+1 put 680 1
+24 put 27 2
+66 put 241 3
+77 put 185 2
+98 put 744 2
+35 put 691 2
+44 put 919 1
+100 put 44 2
+66 put 296 3
+38 put 674 2
+95 put 514 1
+98 put 482 3
+15 put 167 3
+29 put 365 3
+40 put 823 3
+14 put 159 1
+95 put 652 3
+69 put 668 3
+29 put 271 2
+54 put 24 3
+46 put 920 3
+9 put 222 1
+23 put 591 3
+63 put 601 2
+54 put 190 2
+57 get 3
+66 get 3
+28 get 2
+17 get 1
+51 get 3
+75 get 1
+92 get 3
+20 get 3
+39 get 2
+75 get 1
+2 get 1
+27 get 3
+20 get 3
+30 get 1
+50 get 3
+66 get 2
+41 get 2
+54 get 3
+44 get 2
+68 get 3
+87 get 3
+13 get 1
+9 get 3
+29 get 1
+36 get 3
+98 get 1
+85 get 3
+57 get 1
+7 put 711 2
+40 put 403 2
+100 put 773 1
+35 put 920 3
+93 put 354 1
+87 put 526 1
+19 put 321 2
+82 put 730 3
+82 put 20 3
+39 put 744 2
+83 put 113 3
+54 put 555 3
+84 put 203 1
+92 put 919 1
+19 put 758 3
+33 put 873 2
+28 put 252 3
+40 put 769 2
+3 put 405 2
+99 put 998 1
+22 put 913 2
+9 put 212 1
+94 put 671 2
+69 put 404 1
+20 put 57 1
+66 put 846 1
+1 put 787 1
+69 put 220 3
+60 put 397 3
+78 put 169 3
+28 put 704 1
+46 put 357 2
+92 put 387 1
+40 put 575 2
+11 put 464 3
+18 put 869 3
+67 put 187 2
+55 put 359 3
+42 put 582 2
+74 put 214 2
+17 put 102 2
+32 put 857 2
+15 put 120 3
+27 get 1
+54 get 1
+30 get 3
+93 get 1
+35 get 1
+40 get 1
+60 get 1
+70 get 2
+72 get 3
+23 get 1
+98 get 3
+42 get 2
+26 get 3
+27 get 2
+17 get 3
+33 get 1
+48 get 2
+38 get 2
+79 get 1
+88 get 2
+36 get 1
+60 get 3
+67 get 3
+46 get 1
+41 get 1
+97 get 1
+83 get 3
+11 get 2
+61 get 2
+82 get 3
+95 get 3
+98 get 2
+37 get 1
+1 get 1
+13 get 2
+57 get 3
+76 get 1
+1 get 2
+12 get 3
+63 get 1
+70 get 3
+19 get 1
+6 get 2
+6 get 3
+66 get 2
+81 get 2
+62 get 2
+79 get 3
+59 get 3
+32 get 2
+35 put 367 2
+48 put 333 3
+1 put 375 1
+89 put 885 3
+25 put 583 1
+6 put 155 1
+15 put 406 1
+69 put 168 2
+74 put 584 1
+73 put 102 1
+40 put 137 2
+53 put 356 2
+29 put 582 3
+92 put 105 3
+29 put 561 2
+27 put 337 1
+41 put 713 1
+51 put 624 1
+32 put 126 3
+62 put 88 1
+39 put 747 1
+88 put 635 1
+94 put 835 2
+42 put 868 3
+98 put 364 3
+92 put 360 3
+84 put 653 1
+31 put 683 3
+57 put 905 1
+12 put 712 3
+14 get 3
+33 get 1
+78 get 2
+43 get 3
+22 get 1
+82 get 3
+38 get 3
+83 get 2
+11 get 1
+70 get 1
+62 get 2
+37 get 3
+57 get 3
+7 get 3
+6 get 1
+66 get 2
+45 get 3
+97 get 2
+99 get 1
+82 get 1
+36 get 2
+6 get 2
+76 get 2
+17 get 1
+73 get 1
+43 get 2
+62 get 2
+56 get 2
+75 get 3
+8 get 1
+28 get 2
+12 get 2
+69 get 3
+100 get 1
+79 get 1
+86 get 3
+14 get 2
+17 get 1
+86 get 1
+37 get 2
+40 get 1
+68 get 1
+8 get 3
+6 get 3
+89 get 1
+80 get 2
+94 get 2
+25 get 1
+75 get 3
+62 get 1
+60 get 1
+98 get 3
+32 get 3
+16 get 3
+91 get 1
+48 put 693 3
+17 put 146 2
+45 put 671 1
+35 put 952 3
+12 put 348 2
+40 put 775 2
+27 put 580 1
+58 put 526 2
+61 put 919 2
+47 put 873 1
+12 put 212 3
+52 put 41 2
+29 put 6 1
+71 put 138 2
+100 put 91 3
+9 put 294 3
+23 put 741 3
+29 put 511 3
+8 put 872 1
+36 put 597 1
+45 put 327 2
+76 put 810 2
+14 put 318 3
+81 put 959 2
+54 put 381 2
+55 put 459 1
+83 put 721 2
+99 put 659 3
+82 put 330 2
+52 put 147 2
+72 put 294 3
+26 put 379 3
+82 put 824 1
+18 put 838 2
+42 put 739 1
+83 put 174 3
+52 put 988 2
+28 put 779 1
+78 put 124 1
+9 put 602 3
+45 put 253 3
+78 put 835 3
+57 put 103 3
+7 put 728 3
+27 put 514 3
+70 put 498 1
+46 put 343 1
+60 put 940 1
+55 put 690 2
+68 put 598 1
+75 put 653 2
+18 put 808 1
+91 get 2
+16 get 3
+66 get 2
+21 get 1
+10 get 1
+27 get 1
+50 get 2
+5 get 1
+58 get 1
+23 get 3
+31 get 2
+78 get 3
+13 get 3
+38 get 1
+90 get 3
+73 get 1
+36 get 1
+57 get 1
+40 get 3
+87 get 1
+15 get 3
+23 get 3
+7 put 282 2
+25 put 645 2
+100 put 315 1
+31 put 449 2
+34 put 575 3
+2 put 43 1
+9 put 458 1
+64 put 379 2
+62 put 661 1
+95 put 477 2
+100 put 61 1
+50 put 527 2
+25 put 393 2
+100 put 853 2
+34 put 700 1
+65 put 540 3
+12 put 450 1
+87 put 354 2
+92 put 186 1
+34 put 240 2
+33 put 376 2
+93 put 253 3
+56 put 17 3
+8 put 223 3
+99 put 530 1
+34 put 160 1
+35 put 97 2
+100 put 394 2
+99 put 624 1
+29 put 686 2
+2 put 226 1
+81 put 505 2
+23 put 96 2
+77 put 819 3
+21 put 163 1
+5 put 918 2
+14 put 244 3
+59 put 471 1
+49 put 59 2
+7 put 905 3
+2 put 640 1
+88 put 84 2
+21 put 396 3
+87 put 802 1
+37 put 802 3
+50 get 3
+39 get 1
+3 get 2
+55 get 1
+22 get 3
+16 get 3
+99 get 1
+68 get 3
+61 get 1
+97 get 2
+93 get 2
+67 get 2
+70 get 3
+51 get 3
+44 get 3
+45 get 2
+85 get 3
+23 get 1
+61 get 3
+26 get 2
+95 get 2
+50 get 3
+53 get 2
+38 get 3
+44 get 2
+27 get 2
+18 get 2
+8 get 2
+13 get 2
+5 get 1
+69 get 1
+47 get 3
+16 get 3
+35 get 1
+84 get 2
+75 get 3
+68 get 3
+78 get 3
+21 get 1
+52 get 1
+55 get 1
+55 get 2
+22 get 2
+66 get 3
+19 get 2
+22 get 2
+83 put 244 2
+79 put 979 3
+91 put 686 2
+1 put 314 1
+97 put 887 3
+60 put 472 1
+70 put 590 1
+77 put 762 1
+7 put 61 1
+90 put 930 2
+68 put 970 3
+50 put 265 1
+27 put 320 2
+87 put 327 1
+25 put 45 1
+44 put 724 1
+76 put 839 2
+78 put 720 2
+37 put 192 2
+93 put 50 2
+94 put 458 3
+70 put 996 3
+99 put 636 2
+5 put 756 2
+57 put 59 1
+65 put 849 1
+7 put 939 1
+55 put 939 1
+85 put 755 3
+42 put 852 1
+2 put 420 2
+56 put 791 3
+73 put 960 2
+43 put 890 3
+18 put 401 3
+10 put 756 2
+36 put 576 1
+78 put 487 2
+85 put 694 1
+86 put 640 1
+48 put 164 2
+3 get 2
+19 get 2
+48 get 2
+98 get 1
+79 get 1
+4 get 1
+91 get 1
+76 get 1
+4 get 3
+44 get 2
+99 get 1
+13 get 1
+17 get 3
+12 get 2
+53 get 3
+95 get 1
+24 get 3
+20 get 2
+19 get 3
+29 get 3
+51 get 3
+52 get 3
+16 get 3
+42 get 3
+93 get 3
+15 get 1
+4 get 3
+52 get 2
+58 get 3
+100 get 2
+40 get 1
+38 get 2
+3 get 2
+70 get 2
+29 get 1
+4 get 1
+81 get 3
+10 get 1
+32 get 1
+24 get 2
+93 get 2
+88 get 3
+63 get 3
+38 get 1
+58 get 1
+7 get 2
+23 get 1
+31 get 3
+16 get 1
+27 get 1
+14 get 2
+7 get 1
+73 get 3
+60 get 2
+83 get 1
+88 put 78 3
+87 put 443 3
+38 put 100 3
+42 put 201 3
+63 put 402 3
+29 put 194 1
+87 put 600 2
+83 put 507 2
+65 put 361 3
+66 put 890 2
+64 put 704 1
+44 put 89 3
+70 put 253 1
+2 put 318 2
+88 put 261 3
+25 put 565 3
+40 put 400 2
+58 put 544 2
+34 put 400 2
+83 put 868 1
+5 put 481 3
+22 put 555 2
+98 put 881 1
+86 put 450 1
+100 put 0 2
+16 put 144 2
+34 put 420 1
+3 put 381 3
+64 put 7 1
+94 put 228 3
+86 put 490 1
+77 put 539 3
+53 put 2 1
+92 put 511 2
+2 put 257 1
+82 put 272 2
+81 get 2
+66 get 3
+70 get 3
+43 get 1
+57 get 2
+18 get 2
+47 get 3
+29 get 3
+77 get 3
+53 get 3
+8 get 2
+33 get 1
+20 get 3
+82 get 1
+70 get 1
+84 get 1
+89 get 3
+98 get 2
+95 get 1
+54 get 3
+65 get 1
+11 get 3
+4 get 2
+94 get 1
+12 get 2
+3 get 2
+55 get 3
+40 get 1
+19 get 3
+71 get 3
+14 get 3
+8 get 1
+26 get 1
+3 get 2
+93 get 1
+69 get 1
+43 get 2
+38 get 2
+25 get 1
+87 get 1
+48 get 1
+87 get 2
+22 get 2
+9 get 2
+19 get 1
+50 get 1
+56 get 1
+56 put 359 1
+67 put 84 1
+45 put 306 2
+78 put 416 1
+78 put 797 1
+77 put 462 1
+33 put 659 1
+53 put 420 2
+14 put 823 3
+94 put 959 3
+4 put 859 3
+1 put 503 2
+38 put 870 1
+63 put 194 3
+81 put 482 2
+25 put 651 2
+56 put 849 1
+17 put 803 1
+48 put 453 2
+73 put 999 2
+42 put 562 2
+42 put 700 3
+61 put 957 2
+58 put 724 2
+39 put 748 1
+100 put 756 2
+99 put 180 3
+59 put 804 1
+89 put 909 2
+51 put 52 2
+58 put 18 3
+93 put 146 3
+90 put 431 2
+12 put 551 2
+13 put 38 3
+56 put 378 3
+90 put 9 2
+4 put 307 2
+23 put 872 2
+25 put 558 2
+91 put 980 3
+56 put 353 3
+70 put 714 2
+24 put 346 2
+60 put 952 1
+6 get 1
+90 get 1
+81 get 1
+30 get 2
+84 get 3
+66 get 3
+61 get 1
+75 get 2
+1 get 3
+60 get 3
+99 get 1
+31 get 2
+68 get 2
+49 get 3
+5 get 2
+55 get 3
+41 get 3
+55 get 3
+45 get 3
+82 get 2
+53 get 3
+49 get 3
+92 get 1
+87 get 1
+58 get 1
+8 get 1
+25 get 1
+45 get 1
+1 get 1
+73 get 2
+91 get 1
+95 get 3
+87 put 644 2
+81 put 932 2
+81 put 887 3
+98 put 413 3
+73 put 704 3
+32 put 360 1
+54 put 798 1
+53 put 51 1
+27 put 320 3
+61 put 501 1
+13 put 322 1
+48 put 225 3
+79 put 451 3
+92 put 439 1
+73 put 737 1
+70 put 889 2
+11 put 98 1
+33 put 917 3
+97 put 740 2
+59 put 857 2
+51 put 124 1
+37 put 761 3
+33 put 742 2
+13 put 856 2
+81 put 838 1
+6 put 796 2
+30 put 749 3
+66 put 411 1
+71 put 132 3
+70 put 101 3
+46 put 160 3
+28 put 93 3
+15 put 683 3
+74 put 424 2
+22 put 430 2
+70 put 37 1
+55 put 405 3
+65 put 492 3
+73 put 216 1
+96 put 785 3
+6 put 224 2
+87 put 902 1
+70 put 604 2
+26 put 87 3
+80 put 619 1
+81 put 121 3
+65 put 501 3
+10 put 988 1
+10 put 126 2
+42 put 55 3
+23 put 107 2
+12 put 62 3
+44 put 669 3
+4 put 706 1
+5 put 444 3
+11 put 515 1
+53 put 425 1
+38 put 100 2
+96 put 541 1
+13 get 2
+62 get 2
+53 get 3
+59 get 1
+28 get 2
+43 get 3
+85 get 2
+54 get 1
+52 get 2
+92 get 3
+100 get 2
+39 get 1
+91 get 2
+43 get 2
+33 get 2
+87 get 2
+66 get 1
+53 get 3
+65 get 1
+1 get 2
+79 put 491 1
+93 put 89 3
+68 put 465 1
+79 put 832 1
+26 put 43 1
+96 put 582 3
+39 put 564 3
+23 put 301 3
+48 put 614 2
+81 put 538 2
+90 put 310 1
+2 put 353 2
+16 put 547 2
+100 put 631 1
+45 put 820 2
+53 put 749 1
+14 put 634 2
+82 put 521 1
+35 put 944 1
+48 put 228 1
+16 put 16 1
+84 put 968 2
+100 put 517 2
+60 put 286 1
+80 put 369 1
+94 put 610 2
+3 put 99 1
+50 put 887 2
+81 put 64 1
+9 put 697 3
+94 put 638 2
+40 put 219 3
+4 put 470 3
+11 put 134 2
+25 get 1
+45 get 3
+43 get 2
+31 get 1
+70 get 3
+98 get 1
+17 get 3
+69 get 2
+31 get 1
+98 get 3
+38 get 3
+20 get 1
+43 get 1
+54 get 1
+36 get 1
+13 get 1
+22 get 2
+40 get 1
+74 get 3
+82 get 3
+20 get 3
+17 get 1
+2 get 1
+15 get 1
+8 get 1
+87 get 1
+16 get 1
+5 get 1
+95 get 1
+45 get 1
+45 get 2
+71 get 2
+20 get 3
+99 get 2
+51 get 3
+52 get 1
+35 get 2
+42 get 3
+98 get 2
+16 get 3
+76 get 2
+24 get 3
+1 get 3
+22 get 2
+31 get 3
+90 put 340 2
+30 put 318 1
+69 put 117 3
+52 put 690 1
+86 put 585 2
+51 put 200 3
+6 put 394 3
+81 put 432 2
+7 put 464 2
+46 put 448 2
+52 put 242 2
+46 put 659 2
+62 put 297 1
+42 put 711 1
+70 put 619 2
+49 put 861 1
+97 put 751 1
+72 put 340 1
+13 put 724 2
+92 put 921 2
+77 put 49 2
+29 put 292 3
+88 put 930 2
+32 put 92 1
+87 put 912 2
+60 put 159 1
+67 put 116 1
+52 put 726 2
+47 put 928 1
+24 get 2
+99 get 3
+37 get 1
+93 get 3
+9 get 2
+95 get 1
+21 get 2
+54 get 3
+47 get 2
+82 get 3
+89 get 2
+59 get 2
+50 get 2
+4 get 3
+53 get 3
+1 get 2
+46 get 1
+55 get 2
+49 get 1
+51 get 3
+34 get 1
+58 get 1
+38 get 2
+74 put 142 1
+37 put 874 1
+7 put 668 3
+64 put 848 2
+70 put 711 3
+9 put 930 3
+99 put 658 1
+6 put 467 2
+26 put 536 2
+52 put 840 3
+96 put 717 2
+4 put 92 1
+16 put 111 2
+53 put 293 2
+30 put 555 3
+40 put 462 1
+8 put 700 2
+36 put 790 2
+81 put 170 2
+9 put 15 2
+38 put 314 2
+51 put 62 1
+80 put 551 1
+53 put 579 2
+4 put 415 2
+27 put 447 2
+91 put 35 3
+94 put 995 1
+67 put 992 2
+27 put 831 3
+90 put 139 2
+30 put 83 1
+87 put 473 3
+45 put 880 2
+50 put 964 3
+25 put 266 2
+97 put 407 2
+72 put 48 1
+5 put 224 1
+46 put 260 1
+65 put 665 2
+90 put 968 2
+86 put 817 2
+63 put 452 2
+5 get 3
+15 get 3
+14 get 1
+5 get 2
+41 get 3
+61 get 2
+28 get 1
+60 get 3
+61 get 1
+37 get 2
+46 get 1
+91 get 2
+53 get 1
+97 get 2
+43 get 1
+43 get 3
+96 get 1
+80 get 3
+85 get 2
+100 get 1
+14 get 1
+49 get 2
+16 get 2
+23 get 3
+55 get 3
+44 get 3
+10 get 2
+10 get 2
+71 get 3
+95 get 1
+3 get 2
+11 get 2
+90 get 3
+88 get 1
+16 get 3
+68 get 1
+47 get 1
+63 get 1
+3 get 2
+86 get 3
+35 get 1
+18 get 2
+61 get 2
+56 get 2
+80 get 2
+74 put 961 1
+86 put 515 1
+37 put 599 1
+40 put 936 2
+84 put 815 3
+100 put 836 1
+30 put 11 3
+14 put 20 2
+93 put 535 2
+45 put 263 2
+66 put 801 3
+56 put 731 2
+14 put 962 2
+25 put 984 3
+30 put 901 1
+72 put 52 2
+93 put 352 1
+83 put 628 1
+14 put 181 3
+29 put 244 2
+65 put 229 3
+40 put 690 3
+34 put 549 3
+24 put 718 3
+19 put 762 1
+37 put 307 1
+14 put 97 2
+33 put 925 1
+64 put 974 1
+29 put 776 1
+32 put 546 1
+64 put 691 2
+50 put 899 1
+66 put 998 3
+42 put 808 1
+6 put 94 3
+62 put 772 1
+51 put 168 1
+42 get 2
+81 get 3
+77 get 2
+19 get 2
+65 get 2
+76 get 2
+82 get 2
+52 get 1
+22 get 2
+48 get 3
+76 get 3
+68 get 2
+33 get 2
+91 get 2
+14 get 2
+48 get 2
+69 get 1
+89 get 1
+55 get 2
+69 get 1
+55 get 1
+74 get 1
+6 get 1
+98 get 1
+49 get 1
+47 get 3
+29 get 3
+36 get 2
+83 get 3
+54 get 2
+83 get 3
+7 get 2
+67 get 2
+19 get 1
+84 get 2
+90 get 3
+64 get 3
+43 get 2
+30 get 3
+83 get 1
+66 get 1
+69 get 2
+26 get 3
+68 get 2
+25 put 698 3
+79 put 977 1
+89 put 660 1
+30 put 511 2
+96 put 402 1
+49 put 437 1
+90 put 621 3
+15 put 911 2
+27 put 476 1
+36 put 896 3
+30 put 573 3
+35 put 109 3
+22 put 740 3
+63 put 722 1
+37 put 991 1
+81 put 757 3
+69 put 265 3
+5 put 213 2
+43 put 98 2
+79 put 722 3
+84 put 111 2
+9 put 193 1
+65 put 643 1
+92 put 711 3
+50 put 69 1
+94 put 503 1
+84 put 818 1
+26 put 403 2
+20 put 91 2
+11 put 26 3
+100 put 389 1
+64 put 857 2
+15 put 489 2
+58 put 77 2
+81 put 329 1
+97 get 3
+95 get 3
+25 get 1
+68 get 1
+50 get 2
+58 get 1
+29 get 3
+15 get 2
+40 get 1
+64 get 1
+13 get 3
+88 get 2
+97 get 2
+78 get 1
+6 get 1
+52 get 3
+87 get 1
+45 get 1
+90 get 2
+91 get 3
+57 get 3
+59 get 1
+15 put 486 1
+44 put 374 2
+99 put 995 2
+74 put 161 1
+74 put 87 2
+86 put 379 3
+44 put 302 1
+83 put 699 1
+5 put 561 2
+19 put 606 2
+51 put 294 3
+40 put 631 2
+85 put 170 1
+97 put 147 2
+96 put 849 2
+49 put 823 1
+91 put 819 3
+11 put 302 3
+8 put 608 3
+83 put 548 3
+80 put 353 1
+87 put 567 1
+10 put 412 3
+32 put 436 1
+86 put 153 1
+84 put 410 2
+6 put 242 1
+61 put 326 2
+41 put 956 1
+47 put 611 2
+63 put 547 2
+76 put 842 3
+70 put 538 2
+65 put 237 2
+56 put 658 1
+22 put 285 2
+91 put 731 1
+45 put 499 3
+51 put 938 1
+25 put 281 2
+17 put 47 3
+8 put 311 3
+20 put 212 2
+91 put 754 3
+43 put 171 1
+10 put 696 1
+46 put 923 2
+45 get 2
+80 get 1
+98 get 3
+65 get 1
+2 get 1
+28 get 3
+31 get 1
+41 get 2
+49 get 2
+81 get 2
+27 get 2
+22 get 1
+73 get 2
+25 get 3
+55 get 3
+68 get 3
+46 get 1
+2 get 2
+18 get 1
+86 get 3
+56 get 3
+11 get 3
+10 get 2
+26 get 3
+14 get 3
+4 get 2
+64 get 2
+84 get 3
+59 get 2
+77 get 3
+85 get 3
+45 get 1
+38 put 919 1
+73 put 188 2
+17 put 70 1
+94 put 739 3
+99 put 974 1
+2 put 849 2
+55 put 294 3
+67 put 95 3
+87 put 632 2
+37 put 939 2
+67 put 638 2
+56 put 174 2
+6 put 856 1
+50 put 754 1
+70 put 413 3
+10 put 517 1
+32 put 733 3
+75 put 376 3
+83 put 558 2
+20 put 893 2
+68 put 502 1
+20 put 876 1
+43 put 643 3
+54 put 533 2
+32 put 237 2
+54 put 136 1
+51 put 331 1
+70 put 543 3
+76 put 595 1
+3 put 143 1
+43 put 456 3
+69 put 29 1
+12 put 390 2
+93 put 455 3
+24 put 448 3
+68 put 735 3
+34 put 838 1
+56 put 431 3
+38 put 180 3
+50 get 2
+33 get 2
+72 get 1
+38 get 3
+64 get 3
+78 get 3
+57 get 3
+55 get 2
+34 get 1
+30 get 3
+23 get 3
+38 get 3
+5 get 3
+2 get 1
+70 get 2
+70 get 3
+45 get 3
+36 get 2
+8 get 3
+63 get 1
+24 put 680 1
+5 put 423 2
+36 put 81 2
+67 put 396 1
+77 put 294 2
+13 put 925 1
+78 put 983 3
+6 put 829 1
+18 put 434 3
+84 put 973 3
+45 put 970 2
+92 put 363 3
+22 put 501 3
+5 put 22 2
+39 put 683 1
+84 put 177 1
+13 put 550 3
+82 put 402 3
+88 put 317 3
+37 put 947 1
+15 put 452 2
+42 put 103 3
+83 put 276 3
+43 put 207 3
+80 put 311 2
+72 put 841 3
+69 put 768 1
+94 put 402 1
+5 put 41 1
+8 put 555 3
+21 put 880 3
+15 put 287 2
+66 put 861 1
+64 put 165 2
+15 put 662 2
+39 put 820 1
+18 put 67 1
+39 put 833 2
+26 get 1
+55 get 1
+59 get 3
+47 get 3
+98 get 1
+39 get 1
+22 get 1
+13 get 3
+63 get 3
+100 get 3
+12 get 3
+51 get 1
+51 get 1
+91 get 1
+16 get 3
+56 get 2
+62 get 1
+93 get 1
+21 get 3
+61 get 3
+50 get 1
+37 get 3
+37 get 2
+55 get 3
+49 get 3
+96 get 2
+83 get 2
+75 get 2
+36 get 2
+64 put 33 3
+77 put 921 1
+100 put 904 3
+50 put 265 2
+23 put 124 3
+65 put 210 2
+29 put 393 1
+1 put 253 1
+59 put 508 3
+53 put 589 2
+37 put 264 3
+60 put 997 1
+18 put 401 1
+19 put 698 2
+85 put 831 3
+60 put 152 2
+46 put 696 1
+47 put 339 1
+23 put 720 1
+9 put 401 2
+4 put 134 3
+42 put 203 3
+92 put 818 3
+61 put 256 2
+27 put 578 3
+41 put 572 2
+35 put 472 2
+22 put 170 2
+99 put 830 1
+73 put 580 2
+74 put 523 1
+2 put 698 2
+95 put 19 3
+39 put 157 1
+29 put 287 2
+98 put 291 2
+26 put 386 2
+9 put 958 1
+95 put 435 3
+3 put 424 3
+81 put 496 1
+61 put 202 2
+73 put 809 1
+86 put 219 1
+35 put 378 2
+78 put 332 1
+97 put 381 3
+77 put 446 1
+99 put 462 3
+21 get 2
+91 get 1
+76 get 1
+44 get 3
+61 get 1
+58 get 1
+79 get 3
+63 get 2
+4 get 3
+71 get 3
+28 get 2
+40 get 2
+92 get 3
+53 get 1
+60 get 2
+17 get 1
+83 get 2
+64 get 3
+34 get 1
+28 get 1
+36 get 3
+37 get 1
+97 get 1
+32 get 2
+4 get 1
+36 get 1
+61 get 1
+5 get 2
+56 get 3
+91 get 2
+55 get 2
+89 get 1
+77 get 1
+18 get 1
+68 get 1
+69 get 3
+63 get 3
+81 get 2
+90 put 585 2
+36 put 869 1
+42 put 731 2
+92 put 769 3
+31 put 221 2
+81 put 318 3
+64 put 534 2
+4 put 110 1
+38 put 754 2
+44 put 211 2
+55 put 284 2
+34 put 875 3
+39 put 755 2
+95 put 145 2
+57 put 726 2
+68 put 183 2
+52 put 620 1
+64 put 729 3
+37 put 287 3
+1 put 505 2
+70 put 953 3
+57 put 803 2
+1 put 354 2
+83 put 367 2
+64 put 482 1
+12 put 563 1
+80 get 1
+81 get 3
+21 get 1
+56 get 2
+54 get 1
+64 get 1
+24 get 3
+45 get 1
+60 get 3
+1 get 2
+47 get 1
+89 get 2
+68 get 2
+100 get 3
+33 get 1
+80 get 2
+69 get 1
+76 get 3
+50 get 1
+36 get 2
+42 get 2
+4 get 2
+100 get 1
+69 get 2
+55 get 2
+65 get 3
+67 get 1
+86 get 2
+88 get 3
+93 get 3
+87 get 1
+41 put 798 3
+50 put 39 1
+88 put 677 1
+74 put 866 3
+53 put 679 3
+9 put 663 2
+40 put 437 1
+95 put 905 2
+22 put 494 3
+19 put 85 3
+96 put 196 2
+75 put 654 3
+7 put 353 2
+85 put 776 3
+10 put 943 2
+92 put 760 3
+51 put 113 2
+86 put 896 3
+84 put 98 3
+84 put 255 3
+26 put 20 3
+59 put 500 1
+88 put 729 3
+98 put 118 3
+42 put 384 1
+61 put 7 3
+7 put 205 1
+89 put 720 1
+33 put 752 1
+24 put 710 1
+59 put 490 2
+10 put 214 2
+30 put 630 1
+40 put 631 1
+24 put 285 1
+15 put 602 1
+81 put 566 3
+62 put 632 3
+88 put 707 3
+6 put 275 3
+21 put 716 1
+52 put 610 1
+91 put 60 1
+46 put 502 2
+80 put 796 3
+69 put 321 3
+86 put 5 2
+30 put 973 3
+70 put 856 2
+20 put 298 2
+19 put 340 1
+57 put 839 1
+3 get 2
+67 get 2
+88 get 2
+15 get 1
+39 get 1
+60 get 3
+16 get 3
+76 get 2
+14 get 1
+100 get 3
+93 get 2
+53 get 3
+46 get 2
+53 get 2
+49 get 3
+68 get 2
+2 get 3
+78 get 1
+59 get 1
+86 get 2
+87 get 1
+94 get 2
+84 get 1
+90 get 2
+44 get 1
+62 get 2
+27 get 3
+22 get 2
+5 get 3
+59 get 1
+70 get 3
+55 get 1
+97 get 3
+38 get 1
+46 get 2
+42 get 3
+8 get 1
+67 get 3
+54 get 1
+74 get 3
+97 get 1
+97 get 3
+92 get 3
+9 get 2
+62 get 2
+79 get 2
+67 get 1
+43 get 3
+17 get 2
+56 get 3
+21 get 3
+50 get 1
+98 get 2
+97 get 3
+9 get 1
+64 get 3
+35 put 256 1
+31 put 896 2
+55 put 607 3
+94 put 214 1
+79 put 817 3
+20 put 834 1
+82 put 246 1
+49 put 679 3
+92 put 313 3
+82 put 81 2
+14 put 126 2
+15 put 435 2
+9 put 652 1
+48 put 712 2
+73 put 965 2
+7 put 863 1
+47 put 485 3
+70 put 542 2
+52 put 56 1
+15 put 512 2
+42 put 822 3
+21 put 733 1
+5 put 35 3
+82 get 1
+40 get 1
+59 get 1
+47 get 2
+5 get 2
+66 get 3
+83 get 1
+29 get 2
+36 get 3
+53 get 1
+41 get 2
+99 get 1
+96 get 3
+88 get 2
+28 get 3
+100 get 2
+94 get 2
+78 get 3
+26 get 3
+43 get 1
+60 get 1
+51 get 1
+80 get 3
+62 get 3
+48 get 2
+69 get 3
+84 get 3
+19 get 2
+51 get 2
+3 get 1
+77 get 2
+52 get 1
+25 get 1
+100 get 1
+46 get 2
+99 get 2
+50 get 1
+28 get 3
+11 get 2
+59 get 3
+21 get 1
+44 get 2
+28 get 3
+59 get 2
+33 get 3
+40 get 1
+93 get 1
+61 get 2
+95 get 3
+38 get 1
+31 get 2
+74 get 2
+16 get 1
+53 get 1
+97 get 3
+17 put 901 2
+63 put 355 1
+79 put 137 3
+90 put 664 3
+82 put 864 1
+95 put 65 1
+13 put 819 1
+81 put 480 2
+67 put 554 1
+18 put 459 2
+4 put 590 1
+28 put 654 2
+20 put 362 3
+70 put 377 1
+37 put 222 3
+100 put 392 2
+61 put 871 3
+10 put 21 3
+5 put 364 2
+71 put 560 2
+45 put 348 1
+74 put 337 2
+64 put 427 2
+28 get 3
+67 get 3
+81 get 2
+97 get 2
+23 get 3
+4 get 1
+76 get 1
+73 get 2
+60 get 3
+96 get 2
+55 get 3
+54 get 2
+46 get 2
+91 get 1
+4 get 1
+30 get 1
+55 get 3
+88 get 1
+81 get 2
+26 get 3
+52 get 1
+49 get 1
+18 get 3
+52 get 1
+18 get 1
+13 get 3
+47 get 1
+95 get 3
+40 get 1
+7 get 3
+2 get 2
+86 get 2
+95 get 3
+57 get 1
+42 put 658 3
+10 put 739 2
+51 put 647 2
+91 put 155 2
+73 put 528 2
+2 put 919 2
+32 put 601 3
+22 put 170 2
+20 put 407 3
+43 put 977 2
+97 put 5 1
+40 put 119 2
+93 put 519 3
+56 put 308 2
+53 put 27 1
+97 put 868 3
+23 put 856 3
+46 put 989 2
+93 put 362 2
+24 put 722 3
+55 put 759 3
+46 get 2
+2 get 1
+97 get 3
+60 get 1
+66 get 2
+78 get 3
+66 get 1
+35 get 3
+85 get 2
+58 get 3
+34 get 1
+79 get 3
+65 get 3
+74 get 2
+45 get 1
+46 get 1
+48 get 3
+65 get 2
+56 get 1
+26 get 2
+58 get 1
+33 get 1
+94 get 3
+40 get 1
+12 get 2
+47 get 2
+36 get 2
+59 get 3
+28 get 2
+47 get 3
+87 get 3
+70 get 3
+50 get 1
+32 get 3
+89 get 2
+25 get 3
+48 put 197 2
+19 put 848 1
+38 put 878 3
+76 put 911 1
+62 put 260 2
+11 put 83 3
+49 put 948 2
+66 put 651 3
+83 put 98 1
+86 put 712 1
+4 put 481 3
+4 put 562 3
+22 put 409 2
+47 put 386 3
+85 put 726 1
+39 put 553 2
+69 put 494 1
+46 put 789 1
+74 put 203 1
+88 put 815 2
+64 put 297 3
+70 put 223 3
+27 put 421 1
+35 put 211 2
+10 put 442 3
+32 put 387 3
+100 put 891 1
+57 put 41 1
+13 put 566 3
+51 put 153 1
+43 put 119 2
+87 put 512 2
+50 put 671 2
+14 put 20 2
+22 put 529 1
+64 put 979 1
+57 put 507 2
+97 put 73 3
+63 put 951 2
+64 put 10 1
+50 put 443 2
+45 put 375 1
+100 put 64 1
+60 put 917 1
+85 put 485 2
+94 put 465 2
+99 put 448 3
+27 put 77 3
+48 put 836 2
+38 get 2
+78 get 2
+67 get 1
+8 get 3
+62 get 2
+23 get 1
+4 get 1
+61 get 2
+23 get 3
+4 get 3
+11 get 1
+92 get 2
+67 get 1
+51 get 1
+69 get 2
+72 get 3
+81 get 1
+71 get 3
+15 get 1
+37 get 3
+30 get 1
+84 get 3
+99 get 3
+35 get 2
+96 get 3
+63 get 3
+35 get 1
+19 get 3
+61 get 1
+8 get 3
+45 get 2
+22 get 1
+9 get 3
+4 get 2
+49 get 3
+100 get 2
+58 get 3
+11 get 1
+42 get 1
+90 get 3
+48 get 1
+39 get 1
+81 get 3
+27 get 2
+90 get 3
+80 get 1
+36 get 3
+16 get 3
+7 get 1
+93 get 1
+22 get 3
+23 put 132 3
+19 put 978 1
+63 put 40 3
+26 put 379 1
+100 put 868 1
+47 put 888 3
+81 put 407 2
+19 put 399 3
+26 put 893 3
+33 put 938 1
+93 put 913 1
+51 put 753 2
+37 put 408 1
+4 put 595 2
+64 put 816 1
+82 put 250 1
+60 put 481 2
+20 put 11 3
+64 put 554 2
+77 put 236 3
+45 put 272 1
+68 put 638 1
+5 put 923 2
+20 put 800 3
+1 put 786 2
+46 put 311 2
+90 put 1 2
+68 put 634 1
+45 put 51 2
+51 put 261 1
+1 put 216 2
+88 put 994 3
+95 put 176 1
+58 put 56 3
+30 put 494 2
+41 put 433 2
+9 put 584 1
+79 put 472 1
+82 put 882 1
+20 put 133 2
+10 put 418 2
+85 put 274 2
+64 put 478 1
+8 put 450 1
+4 put 689 2
+36 put 160 1
+41 get 2
+96 get 2
+100 get 1
+7 get 3
+56 get 2
+11 get 3
+42 get 2
+3 get 3
+27 get 1
+45 get 3
+94 get 2
+6 get 1
+37 get 3
+21 get 2
+57 get 2
+22 get 3
+42 get 2
+76 get 2
+89 get 1
+81 get 2
+73 get 2
+77 get 2
+32 get 2
+13 get 1
+89 get 3
+78 get 3
+61 get 3
+67 get 1
+87 get 1
+30 get 2
+64 get 2
+68 get 3
+45 get 2
+4 get 3
+87 get 1
+62 get 1
+46 get 3
+41 get 3
+91 get 1
+10 get 3
+13 get 1
+50 get 2
+78 get 3
+47 get 3
+76 get 3
+9 get 1
+23 get 3
+52 get 1
+91 put 38 1
+85 put 819 2
+80 put 983 3
+100 put 85 1
+83 put 233 2
+90 put 152 1
+21 put 894 2
+91 put 943 1
+96 put 6 3
+96 put 111 1
+21 put 224 1
+22 put 712 2
+88 put 261 2
+17 put 13 2
+66 put 265 1
+86 put 706 2
+58 put 581 3
+49 put 959 2
+16 put 123 1
+43 put 132 1
+30 put 655 2
+65 put 334 1
+12 put 352 3
+46 put 611 1
+93 put 132 2
+88 put 498 2
+84 put 613 1
+83 put 927 3
+97 put 215 2
+18 put 929 3
+25 put 168 2
+99 put 446 3
+4 put 470 2
+31 put 381 3
+17 put 291 1
+14 put 121 1
+68 put 12 1
+4 put 8 2
+16 put 265 2
+21 put 24 2
+10 put 145 3
+25 put 949 3
+94 put 389 3
+80 put 900 2
+85 put 75 1
+87 put 52 2
+96 put 171 1
+78 put 728 3
+83 put 13 3
+92 put 874 1
+52 put 335 1
+86 put 427 2
+50 put 445 1
+30 put 459 3
+7 put 19 3
+46 put 702 3
+29 get 1
+97 get 2
+62 get 1
+64 get 3
+7 get 2
+84 get 3
+11 get 1
+100 get 1
+6 get 1
+50 get 1
+39 get 2
+37 get 3
+98 get 1
+40 get 2
+8 get 3
+6 get 2
+71 get 2
+18 get 3
+6 get 3
+93 get 2
+57 get 1
+46 get 3
+84 get 3
+69 get 3
+93 get 3
+51 get 3
+85 get 2
+32 get 1
+66 get 1
+33 get 2
+79 get 2
+68 get 2
+37 get 3
+34 put 340 1
+74 put 295 2
+70 put 164 1
+84 put 260 3
+26 put 774 3
+43 put 271 3
+22 put 187 3
+44 put 162 3
+28 put 303 2
+51 put 63 2
+46 put 578 1
+4 put 687 2
+53 put 578 2
+2 put 465 1
+4 put 807 1
+80 put 863 2
+48 put 71 3
+19 put 478 2
+70 put 357 1
+73 put 429 3
+1 put 662 3
+80 put 855 2
+11 put 785 1
+15 put 421 1
+91 put 42 1
+71 put 417 1
+38 put 397 1
+19 put 510 3
+90 put 739 2
+81 put 103 2
+11 put 883 2
+97 put 823 1
+41 put 624 3
+32 put 282 2
+21 put 280 3
+12 put 59 3
+39 put 382 3
+80 put 970 3
+65 put 178 1
+99 put 687 2
+59 put 937 1
+36 put 496 2
+42 put 224 1
+65 put 985 1
+57 put 253 1
+71 put 923 3
+33 put 108 2
+55 put 628 3
+59 put 776 1
+58 put 648 3
+7 get 3
+11 get 2
+20 get 2
+34 get 3
+40 get 1
+69 get 3
+98 get 2
+12 get 3
+91 get 1
+75 get 2
+5 get 3
+47 get 3
+58 get 3
+100 get 3
+70 get 2
+45 get 3
+10 get 3
+51 get 1
+52 get 2
+32 get 3
+43 get 3
+25 get 3
+38 get 1
+87 get 2
+13 get 1
+83 get 1
+72 get 1
+81 get 3
+81 get 1
+76 put 109 1
+17 put 318 2
+100 put 58 3
+22 put 954 1
+35 put 831 1
+56 put 146 1
+86 put 417 1
+43 put 507 3
+31 put 285 3
+90 put 817 3
+30 put 789 3
+76 put 277 1
+87 put 773 3
+57 put 14 1
+10 put 673 2
+95 put 736 1
+98 put 991 3
+37 put 910 3
+3 put 756 3
+60 put 920 2
+72 put 324 3
+86 put 869 3
+43 put 730 1
+63 put 31 3
+98 put 612 2
+82 put 45 3
+43 put 41 3
+72 put 899 3
+32 put 92 3
+51 put 277 3
+23 put 318 1
+58 put 468 3
+26 put 443 1
+1 put 876 2
+71 put 373 1
+100 put 558 2
+52 put 237 1
+67 put 97 1
+63 put 192 2
+71 put 542 3
+68 put 608 1
+35 put 728 3
+35 get 1
+86 get 2
+93 get 2
+74 get 1
+94 get 1
+64 get 2
+25 get 1
+14 get 2
+37 get 1
+63 get 1
+46 get 3
+81 get 2
+5 get 3
+84 get 2
+45 get 2
+83 get 1
+52 get 2
+97 get 3
+81 get 1
+88 get 1
+34 get 3
+11 get 2
+48 get 2
+4 get 2
+19 get 1
+65 get 1
+68 get 3
+9 get 1
+74 get 2
+90 get 2
+63 get 3
+77 get 2
+60 get 2
+9 get 3
+60 get 3
+48 get 1
+88 get 3
+49 get 1
+10 get 1
+42 get 2
+100 get 3
+96 get 1
+2 get 1
+73 get 2
+26 get 3
+42 get 2
+88 get 3
+12 get 1
+72 put 179 3
+27 put 282 2
+85 put 867 3
+7 put 79 1
+32 put 86 2
+22 put 167 2
+14 put 472 3
+85 put 419 2
+8 put 316 3
+4 put 326 1
+90 put 388 1
+45 put 46 1
+90 put 407 2
+48 put 220 3
+72 put 444 3
+13 put 209 2
+56 put 819 1
+95 put 283 3
+18 put 352 1
+58 put 393 1
+63 put 646 3
+2 put 555 1
+81 put 381 2
+65 put 813 3
+67 put 614 3
+82 put 169 2
+39 put 611 2
+87 put 876 1
+69 put 775 3
+65 get 1
+88 get 1
+64 get 1
+4 get 1
+71 get 3
+95 get 2
+59 get 2
+13 get 2
+82 get 2
+70 get 2
+56 get 2
+55 get 2
+89 get 3
+10 get 3
+24 get 1
+89 get 1
+29 get 2
+73 get 1
+52 get 3
+76 get 3
+62 get 1
+65 get 3
+24 get 3
+56 get 3
+72 get 2
+90 get 2
+90 get 1
+43 get 2
+4 get 3
+16 get 1
+79 get 2
+78 get 3
+14 get 2
+96 get 1
+58 get 2
+81 get 3
+36 get 1
+45 get 3
+8 get 3
+46 get 3
+64 get 3
+23 get 3
+81 get 1
+30 get 1
+39 get 2
+56 get 3
+9 get 1
+44 get 1
+65 put 938 3
+84 put 939 2
+45 put 762 2
+49 put 721 3
+18 put 515 3
+83 put 205 1
+52 put 281 2
+41 put 646 3
+28 put 188 3
+31 put 49 2
+79 put 314 3
+43 put 650 2
+93 put 410 2
+14 put 238 2
+39 put 948 2
+85 put 684 3
+84 put 544 2
+98 put 17 3
+45 put 523 1
+13 put 941 2
+12 put 38 2
+70 put 811 1
+78 put 851 3
+2 get 2
+34 get 1
+71 get 1
+34 get 1
+60 get 2
+58 get 2
+33 get 2
+14 get 1
+87 get 2
+6 get 3
+37 get 3
+76 get 2
+19 get 2
+67 get 3
+22 get 2
+65 get 3
+21 get 2
+61 get 1
+29 get 1
+13 get 3
+49 get 1
+5 get 1
+44 get 2
+37 get 2
+27 get 1
+91 get 1
+67 get 1
+36 get 1
+97 get 1
+3 get 2
+82 get 1
+55 get 2
+23 get 2
+60 get 3
+91 get 1
+56 get 3
+99 get 3
+29 get 1
+90 get 3
+61 get 2
+25 get 2
+87 get 1
+71 get 3
+22 put 741 3
+80 put 723 3
+43 put 763 1
+87 put 639 2
+82 put 405 3
+32 put 752 3
+41 put 235 2
+90 put 564 3
+20 put 815 2
+96 put 990 1
+87 put 559 2
+87 put 676 3
+96 put 387 1
+43 put 531 3
+79 put 860 3
+2 put 346 2
+83 put 307 2
+11 put 301 3
+88 put 642 1
+17 put 740 3
+21 put 553 3
+81 put 24 1
+16 put 620 3
+44 put 645 1
+75 put 4 1
+47 put 768 3
+70 put 572 1
+90 put 700 1
+50 put 174 3
+16 put 162 1
+7 put 26 3
+47 put 75 1
+96 put 151 3
+94 put 861 1
+19 put 953 1
+17 put 522 1
+88 put 817 1
+70 put 686 3
+21 put 278 2
+62 put 746 3
+13 put 697 3
+61 put 488 3
+40 put 222 1
+19 put 263 1
+92 put 501 1
+86 put 145 3
+92 put 708 2
+94 put 717 3
+77 put 79 1
+53 put 17 2
+78 put 548 3
+42 put 860 1
+69 put 213 3
+33 get 3
+4 get 3
+42 get 2
+98 get 3
+9 get 3
+27 get 1
+43 get 3
+67 get 2
+92 get 3
+54 get 2
+8 get 2
+24 get 3
+42 get 2
+72 get 3
+48 get 1
+96 get 2
+65 get 1
+37 get 3
+39 get 1
+20 get 3
+33 get 1
+61 get 2
+3 get 1
+71 get 1
+14 get 1
+26 get 1
+77 get 2
+62 get 2
+85 get 2
+85 get 1
+69 get 2
+49 get 1
+53 get 1
+3 get 2
+40 get 3
+46 get 2
+82 get 2
+29 get 2
+10 get 2
+51 get 2
+5 get 1
+46 get 3
+13 get 1
+31 get 3
+82 get 2
+48 get 2
+97 get 3
+77 get 2
+51 get 2
+34 get 2
+73 get 2
+81 get 1
+18 get 3
+99 get 1
+66 put 516 1
+81 put 382 3
+2 put 857 3
+5 put 963 2
+63 put 722 2
+57 put 999 1
+91 put 442 3
+36 put 426 2
+59 put 313 3
+62 put 666 3
+86 put 489 3
+51 put 743 3
+57 put 373 2
+68 put 481 1
+36 put 242 2
+10 put 780 2
+4 put 76 2
+100 put 940 2
+18 put 991 2
+37 put 313 2
+88 put 785 3
+28 put 354 2
+38 put 618 3
+68 put 521 2
+34 put 571 2
+25 put 590 2
+65 put 176 2
+22 put 773 2
+44 put 447 1
+49 put 555 2
+27 put 520 1
+8 put 524 1
+8 put 402 3
+65 put 59 2
+31 put 745 2
+81 put 141 3
+21 put 342 1
+62 put 554 3
+83 put 674 2
+93 put 818 2
+29 put 693 1
+65 put 642 2
+79 put 459 3
+47 put 241 3
+18 put 643 1
+9 put 691 3
+19 put 969 2
+41 put 929 3
+13 put 189 1
+82 put 721 1
+63 put 144 2
+59 put 527 1
+1 put 80 2
+3 put 802 1
+90 put 642 3
+75 put 347 1
+74 put 724 3
+33 put 130 2
+47 put 612 2
+67 get 1
+22 get 1
+39 get 2
+86 get 3
+84 get 1
+89 get 2
+71 get 1
+35 get 3
+86 get 1
+43 get 1
+62 get 2
+20 get 3
+36 get 2
+15 get 3
+87 get 1
+58 get 1
+71 get 2
+13 get 1
+91 get 2
+43 get 2
+22 get 2
+13 get 3
+41 get 3
+81 get 1
+70 get 1
+53 get 3
+65 get 2
+27 get 3
+43 get 3
+86 get 3
+2 get 2
+34 get 1
+18 get 2
+42 get 3
+8 get 2
+28 get 3
+56 get 3
+73 get 3
+56 get 1
+39 get 2
+30 get 1
+91 get 2
+22 get 2
+42 get 2
+84 get 2
+94 get 1
+26 get 3
+2 get 1
+85 get 2
+85 get 1
+43 get 1
+67 get 1
+60 get 1
+81 get 3
+53 get 3
+77 get 1
+77 put 589 2
+98 put 470 2
+11 put 525 2
+68 put 510 3
+57 put 266 2
+50 put 87 2
+60 put 109 3
+77 put 184 2
+79 put 120 2
+98 put 470 1
+72 put 838 2
+33 put 795 3
+63 put 442 1
+24 put 417 1
+100 put 26 1
+96 put 110 1
+50 put 718 1
+21 put 251 2
+42 put 686 1
+77 put 659 1
+54 put 505 1
+20 put 546 3
+43 put 9 2
+86 put 147 3
+44 put 736 3
+23 put 59 3
+11 put 502 2
+45 put 672 2
+46 put 367 2
+32 put 770 1
+4 put 919 2
+81 put 954 2
+87 put 188 3
+69 put 887 1
+47 put 415 1
+43 put 875 3
+96 put 7 1
+31 put 210 2
+28 put 699 1
+65 put 429 1
+32 put 161 1
+34 put 320 3
+8 put 670 3
+30 put 332 2
+71 put 710 1
+73 put 582 1
+18 put 159 2
+61 put 101 1
+95 put 680 2
+17 put 914 3
+84 put 8 1
+48 put 533 1
+52 put 441 3
+30 put 954 3
+20 put 100 3
+5 get 1
+18 get 1
+86 get 2
